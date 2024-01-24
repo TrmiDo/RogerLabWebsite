@@ -24,7 +24,26 @@ const AboutSectionThree = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-3 lg:w-1/2">
 
-
+              <SectionTitle
+                title=" "
+                paragraph=" "
+                mb="10px"
+              /> 
+              <SectionTitle
+                title=" "
+                paragraph=" "
+                mb="10px"
+              /> 
+              <SectionTitle
+                title=" "
+                paragraph=" "
+                mb="10px"
+              /> 
+              <SectionTitle
+                title=" "
+                paragraph=" "
+                mb="10px"
+              /> 
               <SectionTitle
                 title=" "
                 paragraph=" "
