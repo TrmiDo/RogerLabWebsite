@@ -23,7 +23,14 @@ const AboutSectionThree = () => {
         <div className="border-b border-body-color/[.15] pb-16 dark:border-white/[.15] md:pb-20 lg:pb-28">
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-3 lg:w-1/2">
-            <SectionTitle
+
+              <SectionTitle
+                title=" "
+                paragraph=" "
+                mb="10px"
+              /> 
+              
+              <SectionTitle
                 title="Professional Researchers / Research Faculty"
                 paragraph="From time-to-time, we may have openings for professional (or post-doctoral) researchers. Please contact the Principal Investigator for details."
                 mb="44px"
