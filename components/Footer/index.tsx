@@ -32,7 +32,7 @@ const Footer = () => {
 
                 <Link href="/" className="mb-8 inline-block mr-4">
                   <Image
-                    src="/images/logo/CollegeLogo.jpg"
+                    src="/images/logo/rpb_logo4.jpg"
                     alt="logo"
                     className="w-full dark:hidden"
                     width={140}
