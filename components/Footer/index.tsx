@@ -53,7 +53,7 @@ const Footer = () => {
             <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-5/12">
               <div className="mb-12 lg:mb-16">
                 
-                <p>
+                <p style={{ fontSize: '5px' }}>
                 Email: wli@nova.edu
                 </p>
                 <p> </p>
