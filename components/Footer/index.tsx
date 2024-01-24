@@ -53,23 +53,23 @@ const Footer = () => {
             <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-5/12">
               <div className="mb-12 lg:mb-16">
                 
-                <p style={{ fontSize: '10px' }}>
+                <p style={{ fontSize: '12px' }}>
                 Email: wli@nova.edu
                 </p>
                 <p> </p>
-                <p style={{ fontSize: '10px' }}>
+                <p style={{ fontSize: '12px' }}>
                 3233A Vision Science Laboratory
                 </p>
                 <p> </p>
-                <p style={{ fontSize: '10px' }}>
+                <p style={{ fontSize: '12px' }}>
                 College of Optometry, Nova Southeastern University
                 </p>
                 <p> </p>
-                <p style={{ fontSize: '10px' }}>
+                <p style={{ fontSize: '12px' }}>
                 Health Professions Division Library/Laboratory Building 2/F
                 </p>
                 <p> </p>
-                <p style={{ fontSize: '10px' }}>
+                <p style={{ fontSize: '12px' }}>
                 3200 South University Drive, Fort Lauderdale, FL 33328
                 </p>
               </div>
