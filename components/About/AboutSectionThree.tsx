@@ -40,7 +40,7 @@ const AboutSectionThree = () => {
               />
               <SectionTitle
                 title=""
-                paragraph=" "
+                paragraph="The goals of our research are to study human visual perception and the underlying processing mechanisms, develop new treatment techniques for amblyopia, advance the understanding of visual plasticity of the brain, and translate the knowledge gained into developing clinical techniques for the diagnosis and treatment of ocular/visual disorders."
                 mb="44px"
               />
 
