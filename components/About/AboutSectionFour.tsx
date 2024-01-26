@@ -84,7 +84,11 @@ const AboutSectionThree = () => {
                 mb="44px"
               />
 
-              
+              <SectionTitle
+                title="Independent Study"
+                paragraph="Comming Soon"
+                mb="44px"
+              />
             </div>
 
             
