@@ -55,7 +55,11 @@ const AboutSectionThree = () => {
                 paragraph=" "
                 mb="10px"
               /> 
-              
+              <SectionTitle
+                title=" "
+                paragraph=" "
+                mb="10px"
+              /> 
               <SectionTitle
                 title="Professional Researchers / Research Faculty"
                 paragraph="From time-to-time, we may have openings for professional (or post-doctoral) researchers. Please contact the Principal Investigator for details."
