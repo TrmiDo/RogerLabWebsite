@@ -4,10 +4,10 @@ import Image from "next/image";
 
 const BlogDetailsPage = () => {
   const itemaspecial=[
-    'Award Recipient. Walt and Lilly Disney Award for Amblyopia Research (Research to Prevent Blindness, New York; 2022) Nova Southeastern University Associate Professor Receives Special Grant for Eye Research (newswise.com) ',
+    'Award Recipient. Walt and Lilly Disney Award for Amblyopia Research (Research to Prevent Blindness, New York; 2022)',
   ]
   const itema=[
-    'Award Recipient. Walt and Lilly Disney Award for Amblyopia Research (Research to Prevent Blindness, New York; 2022) Nova Southeastern University Associate Professor Receives Special Grant for Eye Research (newswise.com) ',
+    'Award Recipient. Walt and Lilly Disney Award for Amblyopia Research (Research to Prevent Blindness, New York; 2022)',
     'Grant Review Panel. Research Grants Council, Hong Kong (2016-)',
 'Grant Review Panel. Natural Sciences and Engineering Research Council of Canada, Canada (2014) ',
 'Grant Review Panel. Food and Health Bureau, Hong Kong (2013-)',
