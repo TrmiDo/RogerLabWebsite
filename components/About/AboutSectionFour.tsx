@@ -86,7 +86,7 @@ const AboutSectionThree = () => {
 
               <SectionTitle
                 title="Independent Study"
-                paragraph="Please contact the PI"
+                paragraph="Please contact the PI if interested"
                 mb="44px"
               />
             </div>
