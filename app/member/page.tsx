@@ -22,11 +22,11 @@ const Blog = () => {
   ]
 
   const researchassit=[
-    'Murielle Cayemitte (NSUCO)',
+    'Aliya DeJesus (NSU, pre-Opt)',
+'Murielle Cayemitte (NSUCO)',
 'Nada Bleibel (NSU, pre-Opt, Independent Study)',
-'Aliya DeJesus (NSU, pre-Opt)',
+'Nimisha Kumar (NSU, pre-Opt, Independent Study)',
 'Riya Vadalia (NSU, Pre-Med)',
-'Sophie Song (NSUCO)',
 'Taylor Zinkler (UF, Pre-DPsy)',
 'Triet Do (NSU, Comp)',
 
