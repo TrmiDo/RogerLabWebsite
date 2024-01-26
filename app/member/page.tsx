@@ -17,7 +17,7 @@ const Blog = () => {
 
   const projectmanager=[
     'Jacob Ruby (NSU, Pre-Opt)',
-'Srujan Miryala (NSU, Pre-Med)',
+'Srujan Miryala (NSU, Pre-Med, Independent Study)',
 
   ]
 
