@@ -68,7 +68,7 @@ const AboutSectionThree = () => {
 
               <SectionTitle
                 title="Research Assistants"
-                paragraph="Currently, we have several openings for Volunteer Research Assistants: ~ 5-10 hours/week; flexible working hours"
+                paragraph="We may have openings for Volunteer Research Assistants from time to time ~ 5-10 hours/week. Please contact the PI for more details."
                 mb="44px"
               />
               
