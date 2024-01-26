@@ -4,8 +4,8 @@ import Image from "next/image";
 
 const BlogDetailsPage = () => {
   const item2029=[
-    'Li RW, Li BZ, Chat SW, Patel SS, Chung STL & Levi DM (submitted) Stereoscopic 3D video games boost depth perception.',
-'Leung TW, Li RW, Kee CS (2023, in press) Brief Adaptation to Astigmatic Blur Reduces Meridional Anisotropy in Contrast Sensitivity. Investigative Ophthalmology and Visual Science',
+    'Li RW, Li BZ, Chat SW, Patel SS, Chung STL & Levi DM (2024, in revision) Stereoscopic 3D video games boost depth perception.',
+'Leung TW, Li RW, Kee CS (2023) Brief Adaptation to Astigmatic Blur Reduces Meridional Anisotropy in Contrast Sensitivity. Investigative Ophthalmology and Visual Science, 64, e4',
 'Leung TW, Li RW, Kee CS (2021) Meridional Anisotropy of Foveal and Peripheral Resolution Acuity in Adults with Emmetropia, Myopia and Astigmatism. Investigative Ophthalmology and Visual Science, 62, e11',
 'Levi DM, Li RW, Silver ME, Chung ST (2020). Sequential perceptual learning of letter identification and uncrowding in normal peripheral vision: Effects of task, training order, and cholinergic enhancement. Journal of Vision',
 'Li RW, Tran KD, Bui J, Antonucci M, Ngo C & Levi DM (2018) Improving adult amblyopic vision with stereoscopic 3D video games. Ophthalmology, 125, 1660',
