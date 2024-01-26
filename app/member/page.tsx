@@ -43,7 +43,7 @@ const Blog = () => {
         <div className="container">
 
         <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
-           Principal Investigator
+           Principal Investigators
         </h3>
           <ul className="mb-10 list-inside list-disc text-body-color">
           {principle.map((item, index) => (
@@ -52,7 +52,7 @@ const Blog = () => {
           </ul>
 
         <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
-           Lab Manager
+           Lab Managers
         </h3>
           <ul className="mb-10 list-inside list-disc text-body-color">
           {labmanager.map((item, index) => (
