@@ -80,13 +80,13 @@ const AboutSectionThree = () => {
               
               <SectionTitle
                 title="Postgraduate Research"
-                paragraph="Comming Soon"
+                paragraph="Coming Soon"
                 mb="44px"
               />
 
               <SectionTitle
                 title="Independent Study"
-                paragraph="Comming Soon"
+                paragraph="Please contact the PI"
                 mb="44px"
               />
             </div>
