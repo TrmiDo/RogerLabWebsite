@@ -8,13 +8,7 @@ const BlogDetailsPage = () => {
 'Leung TW, Li RW, Kee CS (2023) Brief Adaptation to Astigmatic Blur Reduces Meridional Anisotropy in Contrast Sensitivity. Investigative Ophthalmology and Visual Science, 64, e4',
 'Leung TW, Li RW, Kee CS (2021) Meridional Anisotropy of Foveal and Peripheral Resolution Acuity in Adults with Emmetropia, Myopia and Astigmatism. Investigative Ophthalmology and Visual Science, 62, e11',
 'Levi DM, Li RW, Silver ME, Chung ST (2020). Sequential perceptual learning of letter identification and uncrowding in normal peripheral vision: Effects of task, training order, and cholinergic enhancement. Journal of Vision',
-'Li RW, Tran KD, Bui J, Antonucci M, Ngo C & Levi DM (2018) Improving adult amblyopic vision with stereoscopic 3D video games. Ophthalmology, 125, 1660',
-'Chung ST, Li RW, Silver ME, Levi DM (2017). Donepezil does not enhance perceptual learning in adults with amblyopia: a pilot study. Frontiers in Neuroscience, 11: e448',
-'Leung TW, Li RW, Kee CS (2017) Blue-light filtering spectacle lenses: optical and clinical performances. PLoS One, 12, 0169114',
-'Li RW, So W, Wu TH, Craven AP, Tran TT, Gustafson KM & Levi DM (2016) Monocular blur alters the tuning characteristics of stereopsis for spatial frequency and size.  Royal Society Open Science, 3: e160273.',
-'Li RW, Tran TT, Craven A, Leung TW, Chat SW & Levi DM (2016) Enhancing coarse-to-fine stereo vision by perceptual learning: Asymmetric transfer across spatial frequency spectrum. Royal Society Open Science, 3, e150523.',
-'Chung STL, Kumar G, Li RW, & Levi DM (2015) Characteristics of Fixational Eye Movements in Amblyopia: Limitations on Fixation Stability and Acuity? Vision Research, 114, 87-99',
-'Li RW, Ngo C, & Levi DM (2015) Relieving the Attentional Blink in the Amblyopic Brain with Video Games. Scientific Reports,5, e8483.'
+
 
 
   ]
