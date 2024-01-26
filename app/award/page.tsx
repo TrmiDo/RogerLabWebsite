@@ -60,7 +60,7 @@ const BlogDetailsPage = () => {
                 
                 <div className="mb-10 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                 <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
-                  Awards and Honor
+                  Awards and Honors
                   </h3>
                   
                   <ul className="mb-10 list-inside list-disc text-body-color">
