@@ -58,7 +58,7 @@ const AboutSectionThree = () => {
               <SectionTitle
                 title=" "
                 paragraph=" "
-                mb="10px"
+                mb="44px"
               /> 
               <SectionTitle
                 title="Professional Researchers / Research Faculty"
