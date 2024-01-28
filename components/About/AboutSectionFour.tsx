@@ -73,8 +73,8 @@ const AboutSectionThree = () => {
               />
               
               <SectionTitle
-                title="Undergraduate Research "
-                paragraph="For those who are interested in taking course credits by volunteering in our research lab, we are currently accepting students for Independent Study. Interested students are welcome to contact the Principal Investigator for more details, and submit a brief resume and career plan for applying."
+                title="Undergraduate Research / Independent Study "
+                paragraph="For those who are interested in taking course credits by volunteering in our research lab, we are currently accepting students for Independent Study. Interested students are welcome to contact the Principal Investigator for more details."
                 mb="44px"
               />
               
@@ -84,11 +84,6 @@ const AboutSectionThree = () => {
                 mb="44px"
               />
 
-              <SectionTitle
-                title="Independent Study"
-                paragraph="Please contact the PI if interested"
-                mb="44px"
-              />
             </div>
 
             
