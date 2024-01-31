@@ -56,7 +56,7 @@ const Blog = () => {
           ))}
           </ul>
 
-        <h3 className="font-sm mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
+        <h3 className="mb-4 text-3xl font-bold !leading-tight text-black dark:text-white sm:text-4xl md:text-[20px]">
            Lab Managers
         </h3>
           <ul className="mb-10 list-inside list-disc text-body-color">
@@ -66,7 +66,7 @@ const Blog = () => {
           </ul>
 
 
-          <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
+          <h3 className="mb-4 text-3xl font-bold !leading-tight text-black dark:text-white sm:text-4xl md:text-[20px]">
            Assistant Lab Managers
         </h3>
           <ul className="mb-10 list-inside list-disc text-body-color">
@@ -75,7 +75,7 @@ const Blog = () => {
           ))}
           </ul>
 
-          <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
+          <h3 className="mb-4 text-3xl font-bold !leading-tight text-black dark:text-white sm:text-4xl md:text-[20px]">
            Project Managers
         </h3>
           <ul className="mb-10 list-inside list-disc text-body-color">
@@ -84,7 +84,7 @@ const Blog = () => {
           ))}
           </ul>
 
-          <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
+          <h3 className="mb-4 text-3xl font-bold !leading-tight text-black dark:text-white sm:text-4xl md:text-[20px]">
            Research Assistants
         </h3>
           <ul className="mb-10 list-inside list-disc text-body-color">
@@ -93,7 +93,7 @@ const Blog = () => {
           ))}
           </ul>
 
-          <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
+          <h3 className="mb-4 text-3xl font-bold !leading-tight text-black dark:text-white sm:text-4xl md:text-[20px]">
            High School Students
         </h3>
           <ul className="mb-10 list-inside list-disc text-body-color">
