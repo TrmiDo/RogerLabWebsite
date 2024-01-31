@@ -42,9 +42,7 @@ const Blog = () => {
       <section className="pt-[120px] pb-[0px]">
         <div className="container">
 
-        <h5 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
-           Team Members
-        </h5>
+
 
 
         <h3 className="mb-4 text-3xl font-bold !leading-tight text-black dark:text-white sm:text-4xl md:text-[20px]">
