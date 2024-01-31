@@ -45,7 +45,11 @@ const Blog = () => {
         <h5 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
            Team Members
         </h5>
-          
+
+
+        <h3 className="text-base sm:text-lg md:text-xl lg:text-base xl:text-lg font-bold leading-tight text-black dark:text-white sm:leading-tight lg:leading-tight xl:leading-tight">
+          Principal Investigators
+        </h3>
         <h6 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
            Principal Investigators
         </h6>
