@@ -56,7 +56,7 @@ const Blog = () => {
           ))}
           </ul>
 
-        <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
+        <h3 className="font-sm mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
            Lab Managers
         </h3>
           <ul className="mb-10 list-inside list-disc text-body-color">
