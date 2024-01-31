@@ -60,7 +60,7 @@ const Blog = () => {
         </h3>
           <ul className="mb-10 list-inside list-disc text-body-color">
           {labmanager.map((item, index) => (
-          <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg" key={index}>{item}</li>
+          <li style={{fontSize: "15px"}} className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg" key={index}>{item}</li>
           ))}
           </ul>
 
@@ -70,7 +70,7 @@ const Blog = () => {
         </h3>
           <ul className="mb-10 list-inside list-disc text-body-color">
           {assitantlabmanager.map((item, index) => (
-          <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg" key={index}>{item}</li>
+          <li style={{fontSize: "15px"}} className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg" key={index}>{item}</li>
           ))}
           </ul>
 
@@ -79,7 +79,7 @@ const Blog = () => {
         </h3>
           <ul className="mb-10 list-inside list-disc text-body-color">
           {projectmanager.map((item, index) => (
-          <li  className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg" key={index}>{item}</li>
+          <li style={{fontSize: "15px"}} className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg" key={index}>{item}</li>
           ))}
           </ul>
 
@@ -88,7 +88,7 @@ const Blog = () => {
         </h3>
           <ul className="mb-10 list-inside list-disc text-body-color">
           {researchassit.map((item, index) => (
-          <li  className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg" key={index}>{item}</li>
+          <li style={{fontSize: "15px"}} className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg" key={index}>{item}</li>
           ))}
           </ul>
 
@@ -97,7 +97,7 @@ const Blog = () => {
         </h3>
           <ul className="mb-10 list-inside list-disc text-body-color">
           {shadow.map((item, index) => (
-          <li  className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg" key={index}>{item}</li>
+          <li style={{fontSize: "15px"}} className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg" key={index}>{item}</li>
           ))}
           </ul>
 
