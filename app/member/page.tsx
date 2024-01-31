@@ -47,7 +47,7 @@ const Blog = () => {
         </h4>
           <ul className="mb-10 list-inside list-disc text-body-color">
           {principle.map((item, index) => (
-          <li style={{fontSize: "20px"}} className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg" key={index}>{item}</li>
+          <li style={{fontSize: "5px"}} className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg" key={index}>{item}</li>
           ))}
           </ul>
 
