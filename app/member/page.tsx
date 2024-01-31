@@ -42,9 +42,9 @@ const Blog = () => {
       <section className="pt-[120px] pb-[120px]">
         <div className="container">
 
-        <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
+        <h4 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
            Principal Investigators
-        </h3>
+        </h4>
           <ul className="mb-10 list-inside list-disc text-body-color">
           {principle.map((item, index) => (
           <li style={{fontSize: "20px"}} className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg" key={index}>{item}</li>
