@@ -35,7 +35,7 @@ const AboutSectionThree = () => {
               />
               <SectionTitle
                 title=""
-                paragraph="Over the past two decades, Dr. Li and his collaborators have developed numerous amblyopia treatment regimens and have conducted a series of pioneering perceptual learning studies. In particular, his recent research demonstrates that video-game play may have unique features for sharpening amblyopic vision (e.g., PLoS Biology, 2011 ; Ophthalmology, 2018). With the support of Research to Prevent Blindness (RPB) Walt and Lilly Disney Award for Amblyopia Research (2022), the research team is currently working towards developing a new stereoscopic treatment for restoring stereo vision in patients with amblyopia using 3D video games. Since 2014, The research team has been awarded a total of 17 competitive travel grants from the American Academy of Optometry and Association for Research in Vision and Ophthalmology. "
+                paragraph="Over the past two decades, Dr. Li and his collaborators have developed numerous amblyopia treatment regimens and have conducted a series of pioneering perceptual learning studies. In particular, his recent research demonstrates that video-game play may have unique features for sharpening amblyopic vision (e.g., PLoS Biology, 2011 ; Ophthalmology, 2018). With the support of Research to Prevent Blindness (RPB) Walt and Lilly Disney Award for Amblyopia Research (2022), the research team is currently working towards developing a new stereoscopic treatment for restoring stereo vision in patients with amblyopia using 3D video games."
                 mb="44px"
               />
               
