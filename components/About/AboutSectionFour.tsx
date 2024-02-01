@@ -90,18 +90,18 @@ const AboutSectionThree = () => {
               />
 
               <SectionTitle
-                title=""
-                paragraph=""
+                title=" "
+                paragraph=" "
                 mb="44px"
               />
               <SectionTitle
-                title=""
-                paragraph=""
+                title=" "
+                paragraph=" "
                 mb="44px"
               />
                <SectionTitle
-                title=""
-                paragraph=""
+                title=" "
+                paragraph=" "
                 mb="44px"
               />             
 
