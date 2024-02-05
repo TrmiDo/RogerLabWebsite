@@ -24,10 +24,11 @@ const Blog = () => {
 
   const researchassit=[
     'Aliya DeJesus (NSU, pre-Opt)',
-'Murielle Cayemitte (NSUCO)',
+'Murielle Cayemitte (OD)',
 'Nimisha Kumar (NSU, pre-Med)',
 'Riya Vadalia (NSU, Pre-Med)',
 'Stella Luo (NSU, Pre-Med)',    
+'Tara Pho (NSU, OD)',    
 'Taylor Zinkler (UF, Pre-DPsy)',
 'Triet Do (NSU, Comp)',
 
