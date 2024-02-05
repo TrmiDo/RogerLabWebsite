@@ -17,6 +17,7 @@ const Blog = () => {
 
   const projectmanager=[
     'Jacob Ruby (NSU, Pre-Opt)',
+'Nada Bleibel (NSU, pre-Opt, Independent Study)',
 'Srujan Miryala (NSU, Pre-Med, Independent Study)',
 
   ]
@@ -24,7 +25,6 @@ const Blog = () => {
   const researchassit=[
     'Aliya DeJesus (NSU, pre-Opt)',
 'Murielle Cayemitte (NSUCO)',
-'Nada Bleibel (NSU, pre-Opt, Independent Study)',
 'Nimisha Kumar (NSU, pre-Med)',
 'Riya Vadalia (NSU, Pre-Med)',
 'Taylor Zinkler (UF, Pre-DPsy)',
