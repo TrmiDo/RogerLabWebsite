@@ -24,6 +24,8 @@ const Blog = () => {
 
   const researchassit=[
     'Aliya DeJesus (NSU, pre-Opt)',
+'Charlene Li (Cooper City High, Pre-Med)',
+'Emily Mello (Cypress Bay High Pre-Med)',
 'Murielle Cayemitte (NSUCO)',
 'Nimisha Kumar (NSU, pre-Med)',
 'Riya Vadalia (NSU, Pre-Med)',
@@ -33,10 +35,7 @@ const Blog = () => {
 'Triet Do (NSU, Comp)',
 
   ]
-  const shadow=[
-    'Charlene Li (Cooper City High, Pre-Med)',
-    'Emily Mello (Cypress Bay High Pre-Med)',
-  ]
+  const shadow=[ ]
   const member=[]
   return (
     <>
