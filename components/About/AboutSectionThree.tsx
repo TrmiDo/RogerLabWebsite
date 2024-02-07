@@ -70,7 +70,7 @@ const AboutSectionThree = () => {
                 alt="about-image"
                 width={400}
                 height={500}
-                className="mx-auto max-w-full lg:mr-0"
+                className="mx-auto max-w-full lg:mr-0 mt-4 lg:mt-8"
                    />
                 </div>
               </div>
