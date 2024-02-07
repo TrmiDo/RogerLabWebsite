@@ -74,6 +74,7 @@ const AboutSectionThree = () => {
                 className="mx-auto max-w-full lg:mr-0"
                 />
                 </div>
+              </div>
           </div>
         </div>
       </div>
