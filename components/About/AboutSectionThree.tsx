@@ -58,7 +58,7 @@ const AboutSectionThree = () => {
             <div className="w-full px-4 lg:w-1/2 mt-25 lg:mt-25">
               <div className="wow fadeInUp relative mx-auto aspect-[25/24] max-w-[500px] lg:mr-0" data-wow-delay=".2s" >
                 <Image
-                src="/images/about/about4.JPG"
+                src="/images/about/Stereocope1.jpg"
                 alt="about-image"
                 width={500}
                 height={500}
