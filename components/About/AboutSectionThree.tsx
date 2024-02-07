@@ -60,7 +60,7 @@ const AboutSectionThree = () => {
                 <Image
                 src="/images/about/Stereocope2.jpg"
                 alt="about-image"
-                width={500}
+                width={400}
                 height={500}
                 className="mx-auto max-w-full lg:mr-0"
                 />
