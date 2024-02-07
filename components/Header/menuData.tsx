@@ -28,33 +28,25 @@ const menuData: Menu[] = [
     ]
   },
   {
-    id: 5,
-    title: "Team",
+    id: 3,
+    title: "Members",
+    path: "/member",
     newTab: false,
-    submenu: [
-      {
-        id: 51,
-        title: "Members",
-        path: "/member",
-        newTab: false,
-      },
-      {
-        id: 52,
-        title: "Awards",
-        path: "/award",
-        newTab: false,
-      }
-
-    ]
   },
   {
-    id: 3,
+    id: 4,
+    title: "Awards",
+    path: "/award",
+    newTab: false,
+  },
+  {
+    id: 5,
     title: "Research Participants",
     path: "/signup",
     newTab: false,
   },
   {
-    id: 4,
+    id: 6,
     title: "Opportunities",
     path: "/opportunity",
     newTab: false,
