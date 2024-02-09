@@ -28,12 +28,12 @@ const Blog = () => {
 'Emily Mello (Cypress Bay High Pre-Med)',
 'Murielle Cayemitte (NSUCO)',
 'Nimisha Kumar (NSU, pre-Med)',
-'Riya Vadalia (NSU, Pre-Med)',
-'Stella Luo (NSU, Pre-Med)',    
+'Riya Vadalia (NSU, Pre-Med)',  
 'Tara Pho (NSU, NSUCO)',    
 'Taylor Zinkler (UF, Pre-DPsy)',
 'Triet Do (NSU, Comp)',
-
+'Yingzi Luo (NSU, Pre-Med)', 
+    
   ]
   const shadow=[ ]
   const member=[]
