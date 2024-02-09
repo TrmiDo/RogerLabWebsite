@@ -94,6 +94,28 @@ const AboutSectionThree = () => {
                 paragraph="In the study, participants will be asked to look at a series of patterns on a monitor screen and make simple perceptual judgments. If you have 20/20 vision and would like to participate, please contact the Principal Investigator."
                 mb="44px"
               />
+
+              <SectionTitle
+                title=" "
+                paragraph=" "
+                mb="44px"
+              />
+               <SectionTitle
+                title=" "
+                paragraph=" "
+                mb="44px"
+              />    
+               <SectionTitle
+                title=" "
+                paragraph=" "
+                mb="44px"
+              />
+               <SectionTitle
+                title=" "
+                paragraph=" "
+                mb="44px"
+              />    
+              
               <SectionTitle
                 title=" "
                 paragraph=" "
