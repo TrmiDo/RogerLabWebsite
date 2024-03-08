@@ -104,7 +104,22 @@ const AboutSectionThree = () => {
                 paragraph=" "
                 mb="44px"
               />             
-
+             
+              <SectionTitle
+                title=" "
+                paragraph=" "
+                mb="44px"
+              />
+              <SectionTitle
+                title=" "
+                paragraph=" "
+                mb="44px"
+              />
+               <SectionTitle
+                title=" "
+                paragraph=" "
+                mb="44px"
+              />   
 
               
             </div>
