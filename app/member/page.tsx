@@ -37,7 +37,7 @@ const Blog = () => {
   ]
 
   const collaborator=[
-      ' ',
+
     ]
 
   
