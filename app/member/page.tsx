@@ -11,7 +11,7 @@ const Blog = () => {
   ]
   const assitantlabmanager=[
     'Anamaria Rey (NSU, Pre-Opt)',
-'Lara Cereminati (NSU, Pre-Med)',
+'Lara Cereminati (NSU, Pre-Opt)',
 
   ]
 
