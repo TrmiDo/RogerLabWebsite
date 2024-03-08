@@ -37,8 +37,7 @@ const Blog = () => {
   ]
 
   const collaborator=[
-      'Crystal Yu OD, PhD (NSUCO, Clinical Assistant Professor)',
-      'Truyet Tran OD, PhD (UCSF, Clinical Assistant Professor)',
+      ' ',
     ]
 
   
@@ -102,7 +101,8 @@ const Blog = () => {
 
 
           <h3 className="mb-4 text-3xl font-bold !leading-tight text-black dark:text-white sm:text-4xl md:text-[20px]">
-           Collaborators
+  
+            
         </h3>
           <ul className="mb-10 list-inside list-disc text-body-color">
           {collaborator.map((item, index) => (
