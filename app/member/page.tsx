@@ -37,8 +37,8 @@ const Blog = () => {
   ]
 
   const collaborator=[
-      'Crystal Yu OD, PhD',
-
+      'Crystal Yu OD, PhD (NSUCO, Clinical Assistant Professor)',
+      'Truyet Tran OD, PhD (UCSF, Clinical Assistant Professor)',
     ]
 
   
