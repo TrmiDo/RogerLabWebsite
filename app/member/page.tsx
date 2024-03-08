@@ -24,13 +24,13 @@ const Blog = () => {
 
   const researchassit=[
     'Aliya DeJesus (NSU, pre-Opt)',
+    'Ashley Godwin (NSU, pre-Opt)',
 'Charlene Li (Cooper City High, Pre-Med)',
 'Emily Mello (Cypress Bay High Pre-Med)',
 'Murielle Cayemitte (NSUCO)',
 'Nimisha Kumar (NSU, pre-Med)',
 'Riya Vadalia (NSU, Pre-Med)',  
 'Tara Pho (NSU, NSUCO)',    
-'Taylor Zinkler (UF, Pre-DPsy)',
 'Triet Do (NSU, Comp)',
 'Yingzi Luo (NSU, Pre-Med)', 
     
