@@ -54,11 +54,11 @@ const BlogDetailsPage = () => {
     <>
       <section className="pt-[150px] pb-[120px]">
         <div className="container">
-          <div className="-mx-4 flex flex-wrap justify-center">
+          <div className="-mx-4 flex flex-wrap justify-left">
             <div className="w-full px-4 lg:w-8/12">
               <div>
                 
-                <div className="mb-10 flex flex-wrap items-left justify-between border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
+                <div className="mb-10 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                 <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
                   Awards and Honors
                   </h3>
