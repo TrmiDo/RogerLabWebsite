@@ -12,6 +12,9 @@ const BlogDetailsPage = () => {
 
 
   ]
+
+
+  
   const items2019 =[
     'Li RW, Tran KD, Bui J, Antonucci M, Ngo C & Levi DM (2018) Improving adult amblyopic vision with stereoscopic 3D video games. Ophthalmology, 125, 1660.',
 'Chung ST, Li RW, Silver ME, Levi DM (2017). Donepezil does not enhance perceptual learning in adults with amblyopia: a pilot study. Frontiers in Neuroscience, 11: e448.',
@@ -29,6 +32,37 @@ const BlogDetailsPage = () => {
 'Li RW, MacKeben M, Chat SW, Kumar M, Ngo C & Levi DM (2010) Age and visual counting. PLoS One, 18, e13434.'
 
   ]
+
+
+  const items2014 =[
+'Chung STL, Kumar G, Li RW, & Levi DM (2015) Characteristics of Fixational Eye Movements in Amblyopia: Limitations on Fixation Stability and Acuity? Vision Research, 114, 87-99.',
+'Li RW, Ngo C, & Levi DM (2015) Relieving the Attentional Blink in the Amblyopic Brain with Video Games. Scientific Reports,5, e8483.',
+'Astle AT, Li RW, Webb BS, Levi DM & McGraw PV. (2013) A Weber-like law for perceptual learning. Scientific Reports, 3, e1158.',
+'Chung STL, Li RW, & Levi DM (2012) Learning to identify near-acuity letters, either with or without flankers, results in improved letter size and spacing limits in adults with amblyopia. PLoS One, 7, e35829.',
+'Li RW, Ngo C, Nguyen J & Levi DM (2012) Video game play induces plasticity in the visual system of adults with amblyopia: Video games improve “lazy eye” in adults. Ophthalmology Update, 10, 29-33 [Invited Excerpt Report].',
+'Li RW, Brown, B, Edwards MH, Ngo C, Chat SW & Levi DM (2012) Reduced sampling efficiency can explain the elevated Vernier threshold with aging: Vernier acuity in positional noise. Scientific Reports, 2, e300.',
+'Li RW, Ngo C, Nguyen, J. & Levi DM (2011) Video game play induces plasticity in the visual system of adults with amblyopia, Public Library of Science Biology, 9, e1001135.',
+'Bavelier D, Levi D, Li RW, Dan Y & Hensch TK. (2010) Removing brakes on adult brain plasticity: from molecular to behavioral interventions. Journal of Neuroscience, 30, 14964-14971.',
+'Li RW, MacKeben M, Chat SW, Kumar M, Ngo C & Levi DM (2010) Age and visual counting. PLoS One, 18, e13434.'
+
+  ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   const items2009 = ['Levi DM, & Li RW (2009) Perceptual Learning as a potential treatment for amblyopia. Vision Research, 49, 2535-2549.',
   'Levi DM, & Li RW (2009) Improving the performance of the amblyopic visual system. Philosophical Transactions of the Royal Society B: Biological Sciences, 364, 399-407. [Invited Review Paper]',
   'Li RW, Klein SA, & Levi DM (2008) Prolonged perceptual learning of positional acuity in adult amblyopia: Perceptual template retuning dynamics. Journal of Neuroscience, 28, 14223-14229. ',
@@ -108,6 +142,20 @@ const BlogDetailsPage = () => {
                   ))}
                   </ul>
 
+
+                  <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
+                    2011-2015
+                  </h3>
+                  <ul className="mb-10 list-inside list-disc text-body-color">
+                  {items2014.map((item, index) => (
+                  <li style={{ fontSize: '15px' }} className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg" key={index}>{item}</li>
+                  ))}
+                  </ul>
+
+
+
+
+                  
                   <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
                     2001-2010
                   </h3>
