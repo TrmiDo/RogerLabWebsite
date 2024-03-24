@@ -17,8 +17,8 @@ const Blog = () => {
 
   const projectmanager=[
     'Jacob Ruby (NSU, Pre-Opt)',
-'Nada Bleibel (NSU, pre-Opt, Independent Study)',
-'Srujan Miryala (NSU, Pre-Med, Independent Study)',
+'Nada Bleibel (NSU, pre-Opt, Independent Study: BIOL 4950)',
+'Srujan Miryala (NSU, Pre-Med, Independent Study: BIOL 4990)',
 
   ]
 
@@ -32,7 +32,7 @@ const Blog = () => {
 'Riya Vadalia (NSU, Pre-Med)',  
 'Tara Pho (NSU, NSUCO)',    
 'Triet Do (NSU, Comp)',
-'Yingzi Luo (NSU, Pre-Med)', 
+'Yingzi Luo (NSU, Pre-Opt/Pre-Med)', 
     
   ]
 
