@@ -53,6 +53,37 @@ const  BlogDetailsPage = () => {
 'Astle, A. T., Li RW, McGraw, P. V., Webb, B. S. & Levi,  D. M. (Dec 2011) The magnitude of perceptual learning is equated when stimuli are scaled according to cortical magnification factor. Applied Vision Association meeting AVA. York, UK',
 
   ]
+
+
+  const items2014 =[
+'Tran KD, Bui, J, Yang E, Moghtaderi A, Ngo CV, Chat S, Kee, C, Levi DM, Li RW. (Oct 2015) Effect of induced astigmatic blur on the spatial frequency tuning of stereopsis. American Academy of Optometry, New Orleans, Louisiana ,USA',
+'Cheong AMY, Lam HY, Siong KH, Ting PWK, Tsang WWN, Leat SJ, Li RW. (Oct 2015) Dynamic visual acuity in community dwelling older adults. American Academy of Optometry, New Orleans, Louisiana ,USA',
+'Cheong AMY, Lam HY, Siong KH, Chan HHL, Tsang WWN, Li RW, Leat SJ. (Oct 2015) Effects of eye movements on postural sway in community dwelling older adults. American Academy of Optometry, New Orleans, Louisiana ,USA',
+'Webb BS, McGraw, PV, Levi DM, Li RW. (Aug, 2015) The perceptual costs and benefits of learning to multitask. European Conference on Visual Perception, Liverpool, UK',
+'Leung TW, Li RW & Kee CS. (July 2015) The effects of anti-blue light lenses on visual and biological function. Macular Carotenoids Conference. Cambridge, UK.',
+'Tran, KD, Ngo C., Bui, J, Yang, E, Levi DM & Li RW. (May 2015) Enhancing tolerance of image motion through perceptual learning: Static and dynamic bisection acuity. ARVO, Denver, CO, USA.',
+'Leung TW, Li RW, & Kee CS (May 2015) The retinal thickness and anterior/posterior ocular biometry in Chinese myopic eyes with and without high astigmatism. ARVO, Denver, CO, USA.',
+'Tran K, Ngo C, Yang E, Bui J, Chat S, Dion Z, Levi DM, Li RW. (Nov 2014) Enhancing tolerance of image motion through perceptual learning: Static and dynamic bisection acuity. American Academy of Optometry, Denver, CO, USA.',
+'Chung STL, Kumar G, Li RW & Levi DM (May 2014) Fixation Stability and fixational eye movements in amblyopia. ARVO, Orlando, FL, USA.',
+'* Wu T, Craven A, Tran T, Tran K, Levi DM & Li RW (May 2014) Enhancing coarse-to-fine stereo vision by perceptual learning: An asymmetric transfer across spatial frequency spectrum. ARVO, Orlando, FL, USA. ',
+'* So, K., Wu, T., Tran, T., Craven, A., Tran, K., Levi DM & Li RW (May 2014) Interocular acuity differences alter the size tuning function of stereopsis. ARVO, Orlando, FL, USA.',
+'*Craven, A., Tran, K., Wu, T., Tran, T., So, K., Levi DM & Li RW (Oct 2013) Enhancing coarse-to-fine stereo vision by perceptual learning: An asymmetric transfer across spatial frequency spectrum. American Academy of Optometry, Seattle, WA, USA. ',
+'Wu, T., Tran, T., Tran, K., So, K., Craven, A., Levi DM & Li RW (Oct 2013) Interocular acuity differences alter the size tuning function of stereopsis. American Academy of Optometry, Seattle, WA, USA.',
+'Ngo C, Levi DM & Li RW (Oct 2013) Video game experience improves temporal processing in adult amblyopia. American Academy of Optometry, Seattle, WA, USA. [Paper]',
+'Tran, T., So, K., Nguyen C., Leung TW, Chat, S. W., Levi DM, & Li RW (May 2013) Enhancing stereoacuity through perceptual learning in normal vision: Specificity for spatial frequency and orientation. ARVO, Seattle, WA, USA.',
+'Craven, A., Truyet, T., Gustafson, K., Chat, S. W., Levi DM & Li RW (May 2013) Interocular acuity differences alter the spatial frequency tuning of stereopsis. ARVO, Seattle, WA, USA.',
+'Ngo C, Truyet, T., Nguyen C., Levi DM, & Li RW (May 2013) Video game experience improves temporal processing in adult amblyopia. ARVO, Seattle, WA, USA.',
+'* Craven, A., Gustafson, K., Truyet, T., Chat, S. W. Levi DM, & Li RW (Oct 2012) Interocular acuity differences alter the spatial frequency tuning of stereopsis. American Academy of Optometry. Phoenix, AZ, USA',
+'* Truyet, T., Nguyen C., Leung, T.W., Chat, S. W., Levi DM, & Li RW (Oct 2012) Enhancing stereoacuity through perceptual learning in normal vision: Specificity for spatial frequency and orientation. American Academy of Optometry. Phoenix, AZ, USA  [Paper]',
+'Li RW, Gustafson, K., Chat, S., & Levi DM (May 2012) Towards establishing a new treatment protocol for improving stereovision in patients with amblyopia. ARVO, Fort Lauderdale, Florida, USA.',
+'Chung, S. T. L., Li RW, Levi, D. M (May 2012) A "fuller" report on mislocation errors in visual crowding. Vision Sciences Society. Naple, Florida, USA',
+'Astle, A. T., Li RW, McGraw, P. V., Webb, B. S. & Levi,  D. M. (Dec 2011) The magnitude of perceptual learning is equated when stimuli are scaled according to cortical magnification factor. Applied Vision Association meeting AVA. York, UK',
+
+  ]
+
+
+
+  
   const items2009 = [
 'Li RW, Luu, J., Ngo C, Yuen, J., Yang, S. X., Wong, C., Chat, S. W. & Levi DM (Nov 2010) Improving stereoacuity in previously treated non-strabismic amblyopia through perceptual learning: A novel treatment approach for subnormal stereopsis. American Academy of Optometry. San Francisco, California, USA.',
 'Chat, S. W., Li RW, Jang E., & Levi DM (May 2010) Reduced sampling efficiency can explain the elevated Vernier threshold with aging: Vernier acuity in positional noise. ARVO, Fort Lauderdale, Florida, USA.',
@@ -144,6 +175,16 @@ const  BlogDetailsPage = () => {
                   ))}
                   </ul>
 
+                  <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
+                    2011-2015
+                  </h3>
+                  <ul className="mb-10 list-inside list-disc text-body-color">
+                  {items2014.map((item, index) => (
+                  <li style={{ fontSize: '15px' }} className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg" key={index}>{item}</li>
+                  ))}
+                  </ul>
+
+                  
                   <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
                     2005-2010
                   </h3>
