@@ -134,7 +134,7 @@ const BlogDetailsPage = () => {
                   </ul>
 
                   <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
-                    2011-2020
+                    2016-2020
                   </h3>
                   <ul className="mb-10 list-inside list-disc text-body-color">
                   {items2019.map((item, index) => (
