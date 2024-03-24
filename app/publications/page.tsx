@@ -40,19 +40,7 @@ const BlogDetailsPage = () => {
   'Chung STL, Li RW, & Levi DM (2006) Identification of contrast-defined letters in adults with amblyopia benefits from perceptual learning. Vision Research, 46, 3853-3861.',
   'Li RW, Klein SA, & Levi DM (2006) The ‘receptive field’ for position acuity changes with feature separation. Journal of Vision, 6, 4, 311-321.',
   'Chung STL, Levi DM, & Li RW (2006) Learning to identify contrast-defined letters in peripheral vision. Vision Research, 46, 1038-1047.',
-  'Li RW, Young KG, Hoenig P, & Levi DM (2005) Perceptual learning improves visual perception in juvenile amblyopia. Investigative Ophthalmology and Visual Science, 46, 3161-3168. ',
-  'Levi DM, Li RW, & Klein SA (2005) “Phase capture” in amblyopia: the influence function for sampled shape. Vision Research, 45, 1793-1805.',
-  'Li RW, & Levi DM (2004) Characterizing the mechanisms of improvement for position discrimination in adult amblyopia. Journal of Vision, 4, 476-487. ',
-  'Li RW, Levi DM & Klein SA (2004) Perceptual learning improves efficiency by re-tuning the “template” for position discrimination. Nature Neuroscience. 7, 178-183. ',
-  'Levi DM, Li RW, & Klein SA (2003) “Phase capture” in the perception of interpolated shape: cue combination and the influence function. Vision Research, 43, 2233-2243.',
-  'Edwards MH, Lam CSY, Li RW (2003) Author Response: A Reanalysis of Myopia Control with Progressive Addition Lenses. Investigative Ophthalmology and Visual Science (Electronic letters)',
-  'Wolffsohn JS, Gilmartin B, Li RW, Edwards MH, Chat SW, Lew JKF & Yu B. (2003). Nearwork-induced transient myopia in preadolescent Hong Kong Chinese. Investigative Ophthalmology and Visual Science, 44, 2284-2289.',
-  'Schmid KL, Li RW, Edwards MH, & Lew JKF. (2003). The expandability of the eye in childhood myopia. Current Eye Research, 26, 65-71.',
-  'Edwards MH, Li RW, Lam CSY, Lew JKF & Yu BSY. (2002). The Hong Kong progressive lens myopia control study: study design and main findings. Investigative Ophthalmology and Visual Science, 43, 2852-2858. ',
-  'Schmid KL, Iskander DR, Li RW, Edwards MH, & Lew JKF. (2002). Blur detection thresholds in childhood myopia: single and dual target presentation. Vision Research, 42, 239-247.',
-  'Li RW, Edwards MH, & Brown B. (2001). Variation in Vernier evoked cortical potential with Age. Investigative Ophthalmology and Visual Science, 42, 1119-1124. ',
-  'Li RW, & Edwards MH. (2001). Interfacing the Shin-Nippon natural vision autorefractor SRW-5000 with a personal computer. Ophthalmic and Physiological Optics, 21, 114-116.',
-  'Li RW, Edwards MH & Brown B. (2000). Variation in Vernier acuity with age. Vision Research, 40, 3775-3781.',
+
   ]
 
 
@@ -130,7 +118,7 @@ const BlogDetailsPage = () => {
                   </ul>
                   
                 <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
-                    2001-205
+                    2001-2005
                   </h3>
                   <ul className="mb-10 list-inside list-disc text-body-color">
                   {items2004.map((item, index) => (
