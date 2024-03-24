@@ -5,11 +5,11 @@ import React, { useState, useEffect } from 'react';
 const  BlogDetailsPage = () => {
   const item2029=[
  'Li BZ, Srujan M, Li CY, Emily M, Chat SW, NR Green, Levi DM, Li RW. (2024) Uncorrected refractive error alters the spatial frequency tuning of stereopsis - spherical blur versus astigmatic blur. ARVO, Seattle, Washington, USA',
-'Huang E, Leung TW, Kee CS, Chat SW, Li RW. (2023) Brief Adaptation to Astigmatic Blur Reduces Meridional Anisotropy in Contrast Sensitivity. American Academy of Optometry, New Orleans, Louisiana, USA',
-'Cayemitte M, Li BZ, Li CY, Miryala S, Cereminati L, Rudy J, Chat SW, Levi DM, Li RW. (2023) Characterizing the effects of spherical and astigmatic defocus on the spatial frequency tuning of stereopsis. American Academy of Optometry, New Orleans, Louisiana, USA', 
-'Leung TW, Li RW, Kee CS. (2023) Orientation Specificity of Contrast Sensitivity Adaptation to Astigmatic Blur: Transient Astigmatism Adaptation Reduces Meridional Anisotropy.  ARVO, New Orleans, Louisiana, USA',
-'Li RW, Li BZ, Antonucci MM, Li CY, Chat SW, Levi DM. (2023) Towards Establishing a Novel Stereoscopic Treatment for Childhood Amblyopia Using 3-Dimensional Video Games. ARVO, New Orleans, Louisiana, USA',
-'Ardali MR, Antonucci MM, Li BZ, Li CY, Miryala S., Chat SW, Levi DM, Li RW. (2023) Playing “3D” video games improves contrast sensitivity in adult amblyopia. ARVO, New Orleans, Louisiana, USA',
+'Huang E, Leung TW, Kee CS, Chat SW, Li RW. (2023) Brief Adaptation to Astigmatic Blur Reduces Meridional Anisotropy in Contrast Sensitivity. American Academy of Optometry, New Orleans, LA, USA',
+'Cayemitte M, Li BZ, Li CY, Miryala S, Cereminati L, Rudy J, Chat SW, Levi DM, Li RW. (2023) Characterizing the effects of spherical and astigmatic defocus on the spatial frequency tuning of stereopsis. American Academy of Optometry, New Orleans, LA, USA', 
+'Leung TW, Li RW, Kee CS. (2023) Orientation Specificity of Contrast Sensitivity Adaptation to Astigmatic Blur: Transient Astigmatism Adaptation Reduces Meridional Anisotropy.  ARVO, New Orleans, LA, USA',
+'Li RW, Li BZ, Antonucci MM, Li CY, Chat SW, Levi DM. (2023) Towards Establishing a Novel Stereoscopic Treatment for Childhood Amblyopia Using 3-Dimensional Video Games. ARVO, New Orleans, LA, USA',
+'Ardali MR, Antonucci MM, Li BZ, Li CY, Miryala S., Chat SW, Levi DM, Li RW. (2023) Playing “3D” video games improves contrast sensitivity in adult amblyopia. ARVO, New Orleans, LA, USA',
 '* Li BZ, Antonucci MM, Levi DM, Li RW. (2022) Towards developing a stereoscopic treatment for childhood amblyopia using 3D video games. American Academy of Optometry, San Diego, CA [Talk]',
   'Tao X, Antonucci MM, Li BZ, Levi DM, Li RW. (2022) Playing “3D” video games improves contrast sensitivity in adult amblyopia. American Academy of Optometry, San Diego, CA',
   'Antonucci MA, Leung JT, Li BZ, Kee CS, Levi DM, Li RW. (2022) Improving meridional acuity deficits in astigmatism-related amblyopia by grating acuity training. ARVO, Denver, CO',
