@@ -100,7 +100,7 @@ const  BlogDetailsPage = () => {
 'Edwards MH, Li RW, Lam, C. S. Y., Lew, K. F. & Yu, S.Y. (December 2001). The Hong Kong progressive lens myopia control study: Design of a double-masked, randomised clinical trial. Symposium on Myopia, and Other Disorders of Refraction, Accommodation, and Oculomotor System. Moscow Helmholtz Research Institute for Eye Diseases, Russia.',
 'Wolffsohn, J. S., Gilmartin, B., Li RW, Edwards, M., Chat, S., Lew, J., & Yu, B. (December 2001). Accommodative hysteresis in pre-adolescent Hong Kong Chinese. Symposium on Myopia, and Other Disorders of Refraction, Accommodation, and Oculomotor System. Moscow Helmholtz Research Institute for Eye Diseases, Russia.',
 'Schmid, K. L., Iskander, D. R., Li RW, Lew, J. K. F., & Edwards MH (July 2000). Blur sensitivity in childhood myopia. The 8th International Conference on Myopia, Boston, MA, USA.',
-'Li RW, Edwards MH, & Brown B (April 1997) The Electrophysiological Assessment of Vernier Acuity. The postgraduate student conference, Hong Kong. [Paper]'
+'Li RW, Edwards MH, & Brown B (April 1997) The Electrophysiological Assessment of Vernier Acuity. The postgraduate student conference, Hong Kong. [Paper]',
 
   ]
 
