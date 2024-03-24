@@ -89,6 +89,34 @@ const  BlogDetailsPage = () => {
 'Li RW, Edwards MH, & Brown B (April 1997) The Electrophysiological Assessment of Vernier Acuity. The postgraduate student conference, Hong Kong. [Paper]'
 
   ]
+
+
+ const items2004 = [
+'* Li RW, Nguyen, J., Provost, A., Young, K. G., Hoenig, P., & Levi DM (Dec 2005). The limits of perceptual learning in a previously untrained amblyope: an intensive case study. American Academy of Optometry. San Diego, California, USA.',
+'Li RW, Young, K. G., Hoenig, P., Nguyen, J. & Levi DM (May 2005). Perceptual learning improves visual performance in children with amblyopia. ARVO, Fort Lauderdale, Florida, USA.',
+'* Young, K. G., Li RW, Levi DM, & Klein SA (May 2005). Interocular specificity in perceptual learning of a position discrimination task. ARVO, Fort Lauderdale, Florida, USA.',
+'Chung, S. T. L., Levi DM, & Li RW (May 2005). Learning to identify contrast-defined letters in peripheral vision. Vision Sciences Society. Sarasota, Florida, USA',
+'Li RW, & Levi DM (April 2004). Characterizing the mechanisms of improvement for position discrimination in adult amblyopia. ARVO, Fort Lauderdale, Florida, USA.',
+'* Young, K. G., Li RW, Levi DM, Klein SA, & Huang, E. Y. (April 2004). Interocular transfer in perceptual learning of a Vernier task. ARVO, Fort Lauderdale, Florida, USA.',
+'Li RW, Levi DM, & Klein S. A.  (May 2003). Spatial noise provides new insights into the “receptive field” for Vernier acuity. Vision Sciences Society. Sarasota, Florida, USA',
+'Edwards MH, Li RW, Lam, C. S. Y., Lew, K. F., & Yu, S.Y. (November 2002). The Hong Kong Progressive Lens Myopia Control Study: design and main findings. The 9th International Conference on Myopia. Hong Kong, China.',
+'Li RW & Levi DM (October 2002). Mechanisms of perceptual learning for Vernier acuity. Fall Vision Meeting. San Francisco, California, USA ',
+'Edwards MH, Li RW, Lam, C. S. Y., Lew, K. F. & Yu, S.Y. (December 2001). The Hong Kong progressive lens myopia control study: Design of a double-masked, randomised clinical trial. Symposium on Myopia, and Other Disorders of Refraction, Accommodation, and Oculomotor System. Moscow Helmholtz Research Institute for Eye Diseases, Russia.',
+'Wolffsohn, J. S., Gilmartin, B., Li RW, Edwards, M., Chat, S., Lew, J., & Yu, B. (December 2001). Accommodative hysteresis in pre-adolescent Hong Kong Chinese. Symposium on Myopia, and Other Disorders of Refraction, Accommodation, and Oculomotor System. Moscow Helmholtz Research Institute for Eye Diseases, Russia.',
+'Schmid, K. L., Iskander, D. R., Li RW, Lew, J. K. F., & Edwards MH (July 2000). Blur sensitivity in childhood myopia. The 8th International Conference on Myopia, Boston, MA, USA.',
+'Li RW, Edwards MH, & Brown B (April 1997) The Electrophysiological Assessment of Vernier Acuity. The postgraduate student conference, Hong Kong. [Paper]'
+
+  ]
+
+
+
+
+
+
+
+
+
+  
   return (
     <>
       <section className="pt-[150px] pb-[120px]">
@@ -138,6 +166,20 @@ const  BlogDetailsPage = () => {
                   <li style={{ fontSize: '15px' }} className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg" key={index}>{item}</li>
                   ))}
                   </ul>
+
+
+                  <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
+                    2000-2005
+                  </h3>
+                  <ul className="mb-10 list-inside list-disc text-body-color">
+                  {items2004.map((item, index) => (
+                  <li style={{ fontSize: '15px' }} className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg" key={index}>{item}</li>
+                  ))}
+                  </ul>
+
+
+
+
                   
                   
                 </div>
