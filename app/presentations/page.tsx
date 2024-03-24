@@ -51,12 +51,12 @@ const  BlogDetailsPage = () => {
 'Li RW, Gustafson, K., Chat, S., & Levi DM (May 2012) Towards establishing a new treatment protocol for improving stereovision in patients with amblyopia. ARVO, Fort Lauderdale, Florida, USA.',
 'Chung, S. T. L., Li RW, Levi, D. M (May 2012) A "fuller" report on mislocation errors in visual crowding. Vision Sciences Society. Naple, Florida, USA',
 'Astle, A. T., Li RW, McGraw, P. V., Webb, B. S. & Levi,  D. M. (Dec 2011) The magnitude of perceptual learning is equated when stimuli are scaled according to cortical magnification factor. Applied Vision Association meeting AVA. York, UK',
-'Li RW, Luu, J., Ngo C, Yuen, J., Yang, S. X., Wong, C., Chat, S. W. & Levi DM (Nov 2010) Improving stereoacuity in previously treated non-strabismic amblyopia through perceptual learning: A novel treatment approach for subnormal stereopsis. American Academy of Optometry. San Francisco, California, USA.',
-'Chat, S. W., Li RW, Jang E., & Levi DM (May 2010) Reduced sampling efficiency can explain the elevated Vernier threshold with aging: Vernier acuity in positional noise. ARVO, Fort Lauderdale, Florida, USA.'
 
   ]
   const items2009 = [
-    'Li RW, Ngo C, Chat, S. W., & Levi DM (Nov 2009) Reduced sampling efficiency can explain the elevated Vernier threshold with aging: Vernier acuity in positional noise. American Academy of Optometry. Orlando, Florida, USA.',
+'Li RW, Luu, J., Ngo C, Yuen, J., Yang, S. X., Wong, C., Chat, S. W. & Levi DM (Nov 2010) Improving stereoacuity in previously treated non-strabismic amblyopia through perceptual learning: A novel treatment approach for subnormal stereopsis. American Academy of Optometry. San Francisco, California, USA.',
+'Chat, S. W., Li RW, Jang E., & Levi DM (May 2010) Reduced sampling efficiency can explain the elevated Vernier threshold with aging: Vernier acuity in positional noise. ARVO, Fort Lauderdale, Florida, USA.',
+'Li RW, Ngo C, Chat, S. W., & Levi DM (Nov 2009) Reduced sampling efficiency can explain the elevated Vernier threshold with aging: Vernier acuity in positional noise. American Academy of Optometry. Orlando, Florida, USA.',
 '*Ngo C, Li RW, Wei, L., & Levi DM (Nov 2009) The Specificity of Learning Static and Dynamic Bisection Acuity: Speed and Configural Orientations. American Academy of Optometry. Orlando, Florida, USA.',
 'Chung, S. T. L., Li RW, Levi, D. M & Behnam N. (May 2009) Improving acuity and reducing crowding in strabismic amblyopia through perceptual learning. ARVO, Fort Lauderdale, Florida, USA.',
 '* Ngo C, Li RW, Wei, L., Ren D., Jang E., & Levi DM (May 2009) Improving Static and Dynamic Bisection Acuity through Perceptual Learning. ARVO, Fort Lauderdale, Florida, USA.',
@@ -74,20 +74,6 @@ const  BlogDetailsPage = () => {
 'Kumar, M., Li RW, Levi, D. M, Chat, S. W., & MacKeben, M. (May 2006). Decreasing visual subitising performance with age. Vision Sciences Society. Sarasota, Florida, USA.',
 'Chung, S. T. L.., Li RW, & Levi DM (May 2006). Performance for identifying contrast-defined letters in adults with amblyopia benefits from perceptual learning. ARVO, Fort Lauderdale, Florida, USA.',
 'Chung, S. T. L.., Li RW, & Levi DM (May 2006). Crowding between first- and second-order letter stimuli. Vision Sciences Society. Sarasota, Florida, USA.',
-'* Li RW, Nguyen, J., Provost, A., Young, K. G., Hoenig, P., & Levi DM (Dec 2005). The limits of perceptual learning in a previously untrained amblyope: an intensive case study. American Academy of Optometry. San Diego, California, USA.',
-'Li RW, Young, K. G., Hoenig, P., Nguyen, J. & Levi DM (May 2005). Perceptual learning improves visual performance in children with amblyopia. ARVO, Fort Lauderdale, Florida, USA.',
-'* Young, K. G., Li RW, Levi DM, & Klein SA (May 2005). Interocular specificity in perceptual learning of a position discrimination task. ARVO, Fort Lauderdale, Florida, USA.',
-'Chung, S. T. L., Levi DM, & Li RW (May 2005). Learning to identify contrast-defined letters in peripheral vision. Vision Sciences Society. Sarasota, Florida, USA',
-'Li RW, & Levi DM (April 2004). Characterizing the mechanisms of improvement for position discrimination in adult amblyopia. ARVO, Fort Lauderdale, Florida, USA.',
-'* Young, K. G., Li RW, Levi DM, Klein SA, & Huang, E. Y. (April 2004). Interocular transfer in perceptual learning of a Vernier task. ARVO, Fort Lauderdale, Florida, USA.',
-'Li RW, Levi DM, & Klein S. A.  (May 2003). Spatial noise provides new insights into the “receptive field” for Vernier acuity. Vision Sciences Society. Sarasota, Florida, USA',
-'Edwards MH, Li RW, Lam, C. S. Y., Lew, K. F., & Yu, S.Y. (November 2002). The Hong Kong Progressive Lens Myopia Control Study: design and main findings. The 9th International Conference on Myopia. Hong Kong, China.',
-'Li RW & Levi DM (October 2002). Mechanisms of perceptual learning for Vernier acuity. Fall Vision Meeting. San Francisco, California, USA ',
-'Edwards MH, Li RW, Lam, C. S. Y., Lew, K. F. & Yu, S.Y. (December 2001). The Hong Kong progressive lens myopia control study: Design of a double-masked, randomised clinical trial. Symposium on Myopia, and Other Disorders of Refraction, Accommodation, and Oculomotor System. Moscow Helmholtz Research Institute for Eye Diseases, Russia.',
-'Wolffsohn, J. S., Gilmartin, B., Li RW, Edwards, M., Chat, S., Lew, J., & Yu, B. (December 2001). Accommodative hysteresis in pre-adolescent Hong Kong Chinese. Symposium on Myopia, and Other Disorders of Refraction, Accommodation, and Oculomotor System. Moscow Helmholtz Research Institute for Eye Diseases, Russia.',
-'Schmid, K. L., Iskander, D. R., Li RW, Lew, J. K. F., & Edwards MH (July 2000). Blur sensitivity in childhood myopia. The 8th International Conference on Myopia, Boston, MA, USA.',
-'Li RW, Edwards MH, & Brown B (April 1997) The Electrophysiological Assessment of Vernier Acuity. The postgraduate student conference, Hong Kong. [Paper]'
-
   ]
 
 
@@ -159,7 +145,7 @@ const  BlogDetailsPage = () => {
                   </ul>
 
                   <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
-                    2000-2009
+                    2005-2010
                   </h3>
                   <ul className="mb-10 list-inside list-disc text-body-color">
                   {items2009.map((item, index) => (
