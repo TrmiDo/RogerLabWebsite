@@ -14,7 +14,7 @@ const  BlogDetailsPage = () => {
   ]
   
   const items2019 =[
-'Chung STL, Li RW, Tiruveedhula P, Agaoglu MN, Levi DM, Roorda A. (2020) Two eyes are better than one: the importance of binocular visual input in eye fixation in amblyopia. Vision Sciences Society, St. Pete Beach, Florida.'   
+'Chung STL, Li RW, Tiruveedhula P, Agaoglu MN, Levi DM, Roorda A. (2020) Two eyes are better than one: the importance of binocular visual input in eye fixation in amblyopia. Vision Sciences Society, St. Pete Beach, Florida.',   
 'Antonucci MA, Leung JT, Li BZ, Kee CS, Bui JK, Feldmar B, Levi DM, Li RW. (2019) Improving meridional acuity deficits in astigmatism-related amblyopia by grating acuity training. American Academy of Optometry, Orlando, FL',
 'Li BZ, Tran KD, Ngo CV, Antonucci MA, Bui JK, Chau DD, Levi DM, Li RW. (2019) Stereoscopic 3D videogame play boosts stereoacuity, but not contrast sensitivity. American Academy of Optometry, Orlando, FL',
 'Levi DM, Li RW. (2019) Playing 3-dimensional (3D), but not 2D video games can improve stereoacuity in neurotypical observers. Vision Sciences Society, St. Pete Beach, Florida.',
