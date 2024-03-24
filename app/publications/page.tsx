@@ -21,15 +21,7 @@ const BlogDetailsPage = () => {
 'Leung TW, Li RW, Kee CS (2017) Blue-light filtering spectacle lenses: optical and clinical performances. PLoS One, 12, 0169114.',
 'Li RW, So W, Wu TH, Craven AP, Tran TT, Gustafson KM & Levi DM (2016) Monocular blur alters the tuning characteristics of stereopsis for spatial frequency and size.  Royal Society Open Science, 3: e160273.',
 'Li RW, Tran TT, Craven A, Leung TW, Chat SW & Levi DM (2016) Enhancing coarse-to-fine stereo vision by perceptual learning: Asymmetric transfer across spatial frequency spectrum. Royal Society Open Science, 3, e150523.',
-'Chung STL, Kumar G, Li RW, & Levi DM (2015) Characteristics of Fixational Eye Movements in Amblyopia: Limitations on Fixation Stability and Acuity? Vision Research, 114, 87-99.',
-'Li RW, Ngo C, & Levi DM (2015) Relieving the Attentional Blink in the Amblyopic Brain with Video Games. Scientific Reports,5, e8483.',
-'Astle AT, Li RW, Webb BS, Levi DM & McGraw PV. (2013) A Weber-like law for perceptual learning. Scientific Reports, 3, e1158.',
-'Chung STL, Li RW, & Levi DM (2012) Learning to identify near-acuity letters, either with or without flankers, results in improved letter size and spacing limits in adults with amblyopia. PLoS One, 7, e35829.',
-'Li RW, Ngo C, Nguyen J & Levi DM (2012) Video game play induces plasticity in the visual system of adults with amblyopia: Video games improve “lazy eye” in adults. Ophthalmology Update, 10, 29-33 [Invited Excerpt Report].',
-'Li RW, Brown, B, Edwards MH, Ngo C, Chat SW & Levi DM (2012) Reduced sampling efficiency can explain the elevated Vernier threshold with aging: Vernier acuity in positional noise. Scientific Reports, 2, e300.',
-'Li RW, Ngo C, Nguyen, J. & Levi DM (2011) Video game play induces plasticity in the visual system of adults with amblyopia, Public Library of Science Biology, 9, e1001135.',
-'Bavelier D, Levi D, Li RW, Dan Y & Hensch TK. (2010) Removing brakes on adult brain plasticity: from molecular to behavioral interventions. Journal of Neuroscience, 30, 14964-14971.',
-'Li RW, MacKeben M, Chat SW, Kumar M, Ngo C & Levi DM (2010) Age and visual counting. PLoS One, 18, e13434.'
+
 
   ]
 
