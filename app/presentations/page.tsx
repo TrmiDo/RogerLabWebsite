@@ -3,8 +3,15 @@ import Image from "next/image";
 import React, { useState, useEffect } from 'react';
 
 const  BlogDetailsPage = () => {
-  const item2029=['* Li BZ, Antonucci MM, Levi DM, Li RW. Towards developing a stereoscopic treatment for childhood amblyopia using 3D video games. American Academy of Optometry, San Diego, CA [Talk]',
-  'Tao X, Antonucci MM, Li BZ, Levi DM, Li RW. Playing “3D” video games improves contrast sensitivity in adult amblyopia. American Academy of Optometry, San Diego, CA',
+  const item2029=[
+ 'Li BZ, Srujan M, Li CY, Emily M, Chat SW, NR Green, Levi DM, Li RW. (2024) Uncorrected refractive error alters the spatial frequency tuning of stereopsis - spherical blur versus astigmatic blur. ARVO, Seattle, Washington, USA',
+'Huang E, Leung TW, Kee CS, Chat SW, Li RW. (2023) Brief Adaptation to Astigmatic Blur Reduces Meridional Anisotropy in Contrast Sensitivity. American Academy of Optometry, New Orleans, Louisiana, USA',
+'Cayemitte M, Li BZ, Li CY, Miryala S, Cereminati L, Rudy J, Chat SW, Levi DM, Li RW. (2023) Characterizing the effects of spherical and astigmatic defocus on the spatial frequency tuning of stereopsis. American Academy of Optometry, New Orleans, Louisiana, USA', 
+'Leung TW, Li RW, Kee CS. (2023) Orientation Specificity of Contrast Sensitivity Adaptation to Astigmatic Blur: Transient Astigmatism Adaptation Reduces Meridional Anisotropy.  ARVO, New Orleans, Louisiana, USA',
+'Li RW, Li BZ, Antonucci MM, Li CY, Chat SW, Levi DM. (2023) Towards Establishing a Novel Stereoscopic Treatment for Childhood Amblyopia Using 3-Dimensional Video Games. ARVO, New Orleans, Louisiana, USA',
+'Ardali MR, Antonucci MM, Li BZ, Li CY, Miryala S., Chat SW, Levi DM, Li RW. (2023) Playing “3D” video games improves contrast sensitivity in adult amblyopia. ARVO, New Orleans, Louisiana, USA',
+'* Li BZ, Antonucci MM, Levi DM, Li RW. (2022) Towards developing a stereoscopic treatment for childhood amblyopia using 3D video games. American Academy of Optometry, San Diego, CA [Talk]',
+  'Tao X, Antonucci MM, Li BZ, Levi DM, Li RW. (2022) Playing “3D” video games improves contrast sensitivity in adult amblyopia. American Academy of Optometry, San Diego, CA',
   'Antonucci MA, Leung JT, Li BZ, Kee CS, Levi DM, Li RW. (2022) Improving meridional acuity deficits in astigmatism-related amblyopia by grating acuity training. ARVO, Denver, CO',
   '* Li BZ, Ngo CV, Antonucci MA, Levi DM, Li RW. (2022) Stereoscopic 3D videogame play boosts stereoacuity, but not contrast sensitivity. ARVO, Denver, CO',
   'Chung STL, Li RW, Li BZ, Lei Q, Levi DM. (2022) Local analysis reveals lower light sensitivity and thicker retinal layers of the amblyopic eyes near the fovea. ARVO, Denver, CO',
@@ -95,7 +102,7 @@ const  BlogDetailsPage = () => {
 'Li RW, & Levi DM (April 2004). Characterizing the mechanisms of improvement for position discrimination in adult amblyopia. ARVO, Fort Lauderdale, Florida, USA.',
 '* Young, K. G., Li RW, Levi DM, Klein SA, & Huang, E. Y. (April 2004). Interocular transfer in perceptual learning of a Vernier task. ARVO, Fort Lauderdale, Florida, USA.',
 'Li RW, Levi DM, & Klein S. A.  (May 2003). Spatial noise provides new insights into the “receptive field” for Vernier acuity. Vision Sciences Society. Sarasota, Florida, USA',
-'Edwards MH, Li RW, Lam, C. S. Y., Lew, K. F., & Yu, S.Y. (November 2002). The Hong Kong Progressive Lens Myopia Control Study: design and main findings. The 9th International Conference on Myopia. Hong Kong, China.',
+'Edwards MH, Li RW, Lam, C. S. Y., Lew, K. F., & Yu, S.Y. (November 2002). The Hong Kong Progressive Lens Myopia Control Study: design and main findings. The 9th International Conference on Myopia. Hong Kong.',
 'Li RW & Levi DM (October 2002). Mechanisms of perceptual learning for Vernier acuity. Fall Vision Meeting. San Francisco, California, USA ',
 'Edwards MH, Li RW, Lam, C. S. Y., Lew, K. F. & Yu, S.Y. (December 2001). The Hong Kong progressive lens myopia control study: Design of a double-masked, randomised clinical trial. Symposium on Myopia, and Other Disorders of Refraction, Accommodation, and Oculomotor System. Moscow Helmholtz Research Institute for Eye Diseases, Russia.',
 'Wolffsohn, J. S., Gilmartin, B., Li RW, Edwards, M., Chat, S., Lew, J., & Yu, B. (December 2001). Accommodative hysteresis in pre-adolescent Hong Kong Chinese. Symposium on Myopia, and Other Disorders of Refraction, Accommodation, and Oculomotor System. Moscow Helmholtz Research Institute for Eye Diseases, Russia.',
