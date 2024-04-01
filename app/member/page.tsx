@@ -10,7 +10,7 @@ const Blog = () => {
     'Sandy W. Chat OD, MPhil',
   ]
   const assitantlabmanager=[
-    'Anamaria Rey (NSU, Pre-Opt)',
+    'Anamaria Rey (NSU, Pre-Opt, Independent Study: BIOL 4990)',
 'Lara Cereminati (NSU, Pre-Opt)',
 
   ]
