@@ -35,28 +35,18 @@ const BlogDetailsPage = () => {
 'Li RW, Ngo C, Nguyen J & Levi DM (2012) Video game play induces plasticity in the visual system of adults with amblyopia: Video games improve “lazy eye” in adults. Ophthalmology Update, 10, 29-33 [Invited Excerpt Report].',
 'Li RW, Brown, B, Edwards MH, Ngo C, Chat SW & Levi DM (2012) Reduced sampling efficiency can explain the elevated Vernier threshold with aging: Vernier acuity in positional noise. Scientific Reports, 2, e300.',
 'Li RW, Ngo C, Nguyen, J. & Levi DM (2011) Video game play induces plasticity in the visual system of adults with amblyopia, Public Library of Science Biology, 9, e1001135.',
-'Bavelier D, Levi D, Li RW, Dan Y & Hensch TK. (2010) Removing brakes on adult brain plasticity: from molecular to behavioral interventions. Journal of Neuroscience, 30, 14964-14971.',
-'Li RW, MacKeben M, Chat SW, Kumar M, Ngo C & Levi DM (2010) Age and visual counting. PLoS One, 18, e13434.'
+
 
   ]
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
   
-  const items2009 = ['Levi DM, & Li RW (2009) Perceptual Learning as a potential treatment for amblyopia. Vision Research, 49, 2535-2549.',
+  const items2009 = [
+  'Bavelier D, Levi D, Li RW, Dan Y & Hensch TK. (2010) Removing brakes on adult brain plasticity: from molecular to behavioral interventions. Journal of Neuroscience, 30, 14964-14971.',
+'Li RW, MacKeben M, Chat SW, Kumar M, Ngo C & Levi DM (2010) Age and visual counting. PLoS One, 18, e13434.'  
+    'Levi DM, & Li RW (2009) Perceptual Learning as a potential treatment for amblyopia. Vision Research, 49, 2535-2549.',
   'Levi DM, & Li RW (2009) Improving the performance of the amblyopic visual system. Philosophical Transactions of the Royal Society B: Biological Sciences, 364, 399-407. [Invited Review Paper]',
   'Li RW, Klein SA, & Levi DM (2008) Prolonged perceptual learning of positional acuity in adult amblyopia: Perceptual template retuning dynamics. Journal of Neuroscience, 28, 14223-14229. ',
   'Chung STL, Li RW, & Levi DM (2008) Learning to Identify Near-Threshold Luminance-Defined and Contrast-Defined Letters in Observers with Amblyopia. Vision Research, 48, 2739-2750.',
