@@ -97,7 +97,7 @@ const BlogDetailsPage = () => {
                 </h2>
                 <div className="mb-10 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
    
-                  <div className="mb-10 overflow-hidden rounded">
+                  <div className="mb-10 w-full overflow-hidden rounded">
                     <div className="relative aspect-[97/60]  sm:aspect-[97/44]">
                       <Image
                         src="/images/blog/blog-details-03.JPG"
