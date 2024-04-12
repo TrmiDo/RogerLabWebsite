@@ -45,7 +45,7 @@ const BlogDetailsPage = () => {
   
   const items2009 = [
   'Bavelier D, Levi D, Li RW, Dan Y & Hensch TK. (2010) Removing brakes on adult brain plasticity: from molecular to behavioral interventions. Journal of Neuroscience, 30, 14964-14971.',
-'Li RW, MacKeben M, Chat SW, Kumar M, Ngo C & Levi DM (2010) Age and visual counting. PLoS One, 18, e13434.'  
+'Li RW, MacKeben M, Chat SW, Kumar M, Ngo C & Levi DM (2010) Age and visual counting. PLoS One, 18, e13434.',  
     'Levi DM, & Li RW (2009) Perceptual Learning as a potential treatment for amblyopia. Vision Research, 49, 2535-2549.',
   'Levi DM, & Li RW (2009) Improving the performance of the amblyopic visual system. Philosophical Transactions of the Royal Society B: Biological Sciences, 364, 399-407. [Invited Review Paper]',
   'Li RW, Klein SA, & Levi DM (2008) Prolonged perceptual learning of positional acuity in adult amblyopia: Perceptual template retuning dynamics. Journal of Neuroscience, 28, 14223-14229. ',
