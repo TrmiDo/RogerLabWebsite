@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const BlogDetailsPage = () => {
   const item2029=[
-    'Li RW, Li BZ, Chat SW, Patel SS, Chung STL & Levi DM (2024, in press) ',
+    'Li RW, Li BZ, Chat SW, Patel SS, Chung STL & Levi DM (2024) Current Biology',
 'Leung TW, Li RW, Kee CS (2023) Brief Adaptation to Astigmatic Blur Reduces Meridional Anisotropy in Contrast Sensitivity. Investigative Ophthalmology and Visual Science, 64, e4',
 'Leung TW, Li RW, Kee CS (2021) Meridional Anisotropy of Foveal and Peripheral Resolution Acuity in Adults with Emmetropia, Myopia and Astigmatism. Investigative Ophthalmology and Visual Science, 62, e11',
 
