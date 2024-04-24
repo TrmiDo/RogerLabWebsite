@@ -30,7 +30,7 @@ const AboutSectionThree = () => {
               />
               <SectionTitle
                 title="Research Interests"
-                paragraph="The laboratory has a long-term interest in spatial and pattern vision. Our recent research focuses on developing new treatments for amblyopia, commonly known as “lazy eye”, using a novel perceptual learning approach (Nature Neuroscience, 2004). The conventional treatment for amblyopia consists of patching the fellow preferred eye, pushing the brain to use the weaker amblyopic eye. Amblyopia was thought to be NOT reversible after the critical periods of visual development. Encouragingly, our research (Journal of Vision, 2004; Journal of Neuroscience, 2008) has shown that adult amblyopia still retains a significant degree of visual plasticity. "
+                paragraph="The laboratory has a long-term interest in spatial and pattern vision. Our recent research focuses on developing new treatments for amblyopia, commonly known as “lazy eye”, using a novel perceptual learning approach (Nature Neuroscience, 2004). The conventional treatment for amblyopia consists of patching the fellow preferred eye, pushing the brain to use the weaker amblyopic eye. Amblyopia was thought to be NOT reversible after the critical periods of visual development. Encouragingly, our research (Journal of Vision, 2004; Journal of Neuroscience, 2008; Current Biology, 2024) has shown that adult amblyopia still retains a significant degree of visual plasticity. "
                 mb="44px"
               />
               <SectionTitle
