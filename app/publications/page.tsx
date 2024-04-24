@@ -78,7 +78,7 @@ const BlogDetailsPage = () => {
   ]
 
 
-  const RepPub = ['Li RW, Li BZ, Chat SW, Patel SS, Chung STL & Levi DM (2024) Current Biology',
+  const reppub = ['Li RW, Li BZ, Chat SW, Patel SS, Chung STL & Levi DM (2024) Current Biology',
   'Li RW, Tran KD, Bui J, Antonucci M, Ngo C & Levi DM (2018) Improving adult amblyopic vision with stereoscopic 3D video games. Ophthalmology, 125, 1660.',
   'Li RW, Ngo C, Nguyen, J. & Levi DM (2011) Video game play induces plasticity in the visual system of adults with amblyopia, Public Library of Science Biology, 9, e1001135.',
   'Li RW, Levi DM & Klein SA (2004) Perceptual learning improves efficiency by re-tuning the “template” for position discrimination. Nature Neuroscience. 7, 178-183. ',
@@ -112,6 +112,27 @@ const BlogDetailsPage = () => {
                       />
                     </div>
                   </div>
+                  
+                  
+                  
+                  
+                  
+                  
+                  <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
+                    Representative Publications
+                  </h3>
+                  <ul className="mb-10 list-inside list-disc text-body-color">
+                  {reppub.map((item, index) => (
+                  <li style={{ fontSize: '15px' }} className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg" key={index}>{item}</li>
+                  ))}
+                  </ul>                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
                   <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
                     2021-Current
                   </h3>
