@@ -82,7 +82,6 @@ const BlogDetailsPage = () => {
   'Li RW, Tran KD, Bui J, Antonucci M, Ngo C & Levi DM (2018) Improving adult amblyopic vision with stereoscopic 3D video games. Ophthalmology, 125, 1660.',
   'Li RW, Ngo C, Nguyen, J. & Levi DM (2011) Video game play induces plasticity in the visual system of adults with amblyopia, Public Library of Science Biology, 9, e1001135.',
   'Li RW, Levi DM & Klein SA (2004) Perceptual learning improves efficiency by re-tuning the “template” for position discrimination. Nature Neuroscience. 7, 178-183. ',
-  'Levi
   ]
 
 
