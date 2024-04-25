@@ -33,6 +33,8 @@ const Blog = () => {
 'Tara Pho (NSU, NSUCO)',    
 'Triet Do (NSU, Comp)',
 'Yingzi Luo (NSU, Pre-Opt/Pre-Med)', 
+' ', 
+' ', 
     
   ]
 
