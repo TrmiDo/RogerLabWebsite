@@ -37,7 +37,7 @@ const AboutSectionThree = () => {
 
 
               <SectionTitle
-                title="Research Interests"
+                title=""
                 paragraph="The conventional treatment for amblyopia consists of patching the fellow preferred eye, pushing the brain to use the weaker amblyopic eye. Amblyopia was thought to be NOT reversible after the critical periods of visual development. Encouragingly, our research (Journal of Vision, 2004; Journal of Neuroscience, 2008) has shown that adult amblyopia still retains a significant degree of visual plasticity. "
                 mb="44px"
               />
