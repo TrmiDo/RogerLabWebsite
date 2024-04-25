@@ -26,6 +26,8 @@ const Blog = () => {
     'Aliya DeJesus (NSU, pre-Opt)',
     'Ashley Godwin (NSU, pre-Opt)',
 'Charlene Li (Cooper City High, Pre-Med)',
+    'Edxael Rodriguez (NSUCO)',
+'Emily Mello (Cooper City High, Pre-Med)',    
 'Ledianys Nazala (NSU, Pre-PA, Independent Study: BIOL 4990)',    
 'Murielle Cayemitte (NSUCO)',
 'Nimisha Kumar (NSU, pre-Med)',
@@ -33,8 +35,7 @@ const Blog = () => {
 'Tara Pho (NSU, NSUCO)',    
 'Triet Do (NSU, Comp)',
 'Yingzi Luo (NSU, Pre-Opt/Pre-Med)', 
-' ', 
-' ', 
+
     
   ]
 
