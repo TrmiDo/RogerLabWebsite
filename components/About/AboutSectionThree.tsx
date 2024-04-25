@@ -30,7 +30,7 @@ const AboutSectionThree = () => {
               />
               <SectionTitle
                 title="Research Interests"
-                paragraph="The laboratory has a long-term interest in spatial and pattern vision. Our recent research focuses on developing new treatments for amblyopia, commonly known as “lazy eye”, using a novel perceptual learning approach (Nat Neurosci, 2004; Curr Biol, 2024)."
+                paragraph="The laboratory has a long-term interest in spatial and pattern vision. Our recent research focuses on developing new treatments for amblyopia, commonly known as lazy eye, using a novel perceptual learning approach (Nat Neurosci, 2004; Curr Biol, 2024)."
                 mb="44px"
               />
 
