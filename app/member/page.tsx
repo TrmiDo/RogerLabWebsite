@@ -41,7 +41,7 @@ const Blog = () => {
 
   const collaborator=[
 'Crystal Yu OD, PhD (Assistant Professor, NSUCO)',  
-'Tsz Wing Leung OD, PhD (Assistant Professor, School of Optometry, HKPU)',      
+'Tsz Wing Leung OD, PhD (Research Assistant Professor, School of Optometry, HKPU)',      
     ]
 
   
