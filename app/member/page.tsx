@@ -26,8 +26,8 @@ const Blog = () => {
     'Aliya DeJesus (NSU, pre-Opt)',
     'Ashley Godwin (NSU, pre-Opt)',
 'Charlene Li (Cooper City High, Pre-Med)',
-    'Edxael Rodriguez (NSUCO)',
-'Emily Mello (Cooper City High, Pre-Med)',    
+'Edxael Rodriguez (NSUCO)',
+'Emily Mello (Cypress Bay High, Pre-Med)',    
 'Ledianys Nazala (NSU, Pre-PA, Independent Study: BIOL 4990)',    
 'Murielle Cayemitte (NSUCO)',
 'Nimisha Kumar (NSU, pre-Med)',
@@ -40,7 +40,7 @@ const Blog = () => {
   ]
 
   const collaborator=[
-
+'Crystal Yu OD, PhD (Assistant Professor, NSUCO)',  
     ]
 
   
