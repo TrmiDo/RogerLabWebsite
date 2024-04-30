@@ -58,7 +58,8 @@ const AboutSectionThree = () => {
               
               <SectionTitle
                 title=""
-                paragraph="  "
+                paragraph=" a "
+                paragraph=" b "  
                 mb="44px"
               />
 
