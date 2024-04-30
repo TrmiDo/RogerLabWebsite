@@ -36,28 +36,16 @@ const AboutSectionThree = () => {
 
 
 
-              <SectionTitle
-                title=""
-                paragraph="The conventional treatment for amblyopia consists of patching the fellow preferred eye, pushing the brain to use the weaker amblyopic eye. Amblyopia was thought to be not reversible after the critical periods of visual development. Encouragingly, our research (J Vis, 2004; J Neurosci, 2008) has shown that adult amblyopia still retains a significant degree of visual plasticity. "
-                mb="44px"
-              />
-
-
 
               
               <SectionTitle
                 title=""
-                paragraph="Over the past two decades, we have developed numerous amblyopia treatment regimens and have conducted a series of pioneering perceptual learning studies. In particular, our recent research demonstrates that video-game play may have unique features for sharpening amblyopic vision (e.g., PLoS Biol, 2011 ; Ophthalmology, 2018)."
+                paragraph="Over the past two decades, we have developed numerous amblyopia treatment regimens and have conducted a series of pioneering perceptual learning studies. In particular, our recent research demonstrates that video-game play may have unique features for sharpening amblyopic vision (e.g., PLoS Biol, 2011 ; Ophthalmology, 2018). With the support of Research to Prevent Blindness (RPB) Walt and Lilly Disney Award for Amblyopia Research (2022), the research team is currently working towards developing a new stereoscopic treatment for restoring stereo vision in patients with amblyopia using 3D video games."
                 mb="44px"
               />
 
 
-              <SectionTitle
-                title=""
-                paragraph="With the support of Research to Prevent Blindness (RPB) Walt and Lilly Disney Award for Amblyopia Research (2022), the research team is currently working towards developing a new stereoscopic treatment for restoring stereo vision in patients with amblyopia using 3D video games."
-                mb="44px"
-              />
-
+    
 
               
                <SectionTitle
