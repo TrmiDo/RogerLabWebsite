@@ -11,7 +11,7 @@ const Blog = () => {
   ]
   const assitantlabmanager=[
     'Anamaria Rey (NSU, Pre-Opt, Independent Study: BIOL 4990)',
-'Lara Cereminati (NSU, Pre-Opt)',
+'Lara Cereminati (NSU, Pre-Opt, Independent Study: BIOL 4990)',
 
   ]
 
@@ -25,11 +25,9 @@ const Blog = () => {
   const researchassit=[
     'Aliya DeJesus (NSU, pre-Opt)',
     'Ashley Godwin (NSU, pre-Opt)',
-'Charlene Li (Cooper City High, Pre-Med)',
-'Edxael Rodriguez (NSUCO)',
-'Emily Mello (Cypress Bay High, Pre-Med)',    
+'Charlene Li (UF, Pre-Med)',
+'Edxael Rodriguez (NSUCO)',  
 'Ledianys Nazala (NSU, Pre-PA, Independent Study: BIOL 4990)',    
-'Murielle Cayemitte (NSUCO)',
 'Nimisha Kumar (NSU, pre-Med)',
 'Riya Vadalia (NSU, Pre-Med)',  
 'Tara Pho (NSU, NSUCO)',    
