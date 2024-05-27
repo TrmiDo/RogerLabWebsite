@@ -29,8 +29,7 @@ const Blog = () => {
 'Edxael Rodriguez (NSUCO)',  
 'Ledianys Nazala (NSU, Pre-PA, Independent Study: BIOL 4990)',    
 'Nimisha Kumar (NSU, pre-Med)',
-'Riya Vadalia (NSU, Pre-Med)',  
-'Tara Pho (NSU, NSUCO)',    
+'Riya Vadalia (NSU, Pre-Med)',    
 'Triet Do (NSU, Comp)',
 'Yingzi Luo (NSU, Pre-Opt/Pre-Med)', 
 
