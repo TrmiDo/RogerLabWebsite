@@ -31,6 +31,7 @@ const Blog = () => {
 'Nimisha Kumar (NSU, pre-Med)',
 'Riya Vadalia (NSU, Pre-Med)',    
 'Triet Do (NSU, Comp)',
+'Valeria Raterman (NSU, pre-Opt)',    
 'Yingzi Luo (NSU, Pre-Opt/Pre-Med)', 
 
     
