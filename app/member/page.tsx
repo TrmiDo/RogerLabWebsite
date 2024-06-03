@@ -17,20 +17,20 @@ const Blog = () => {
 
   const projectmanager=[
     'Jacob Ruby (NSU, Pre-Opt)',
-'Nada Bleibel (NSU, pre-Opt, Independent Study: BIOL 4950)',
+'Nada Bleibel (NSUCO, Independent Study: BIOL 4950)',
 'Srujan Miryala (NSU, Pre-Med, Independent Study: BIOL 4990)',
 
   ]
 
   const researchassit=[
-    'Aliya DeJesus (NSU, pre-Opt)',
+    'Aliya DeJesus (NSU: Psychology, pre-Opt)',
     'Ashley Godwin (NSU, pre-Opt)',
 'Charlene Li (UF, Pre-Med)',
 'Edxael Rodriguez (NSUCO)',  
 'Ledianys Nazala (NSU, Pre-PA, Independent Study: BIOL 4990)',    
 'Nimisha Kumar (NSU, pre-Med)',
 'Riya Vadalia (NSU, Pre-Med)',    
-'Triet Do (NSU, Comp)',
+'Triet Do (NSU: Computing)',
 'Valeria Raterman (NSU, pre-Opt)',    
 'Yingzi Luo (NSU, Pre-Opt/Pre-Med)', 
 
