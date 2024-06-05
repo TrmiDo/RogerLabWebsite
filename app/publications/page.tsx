@@ -4,7 +4,8 @@ import Image from "next/image";
 
 const BlogDetailsPage = () => {
   const item2029=[
-    'Li RW, Li BZ, Chat SW, Patel SS, Chung STL & Levi DM (2024) Playing three-dimensional video games boosts stereo vision. Current Biology, 34, R524-R525.',
+    'Li RW, Li BZ, Chat SW & Levi DM (in preparation)',
+    'Li RW, Li BZ, Chat SW, Patel SS, Chung STL & Levi DM (2024) Playing three-dimensional video games boosts stereo vision. Current Biology, 34, R524-R525.',    
 'Leung TW, Li RW, Kee CS (2023) Brief Adaptation to Astigmatic Blur Reduces Meridional Anisotropy in Contrast Sensitivity. Investigative Ophthalmology and Visual Science, 64, e4',
 'Leung TW, Li RW, Kee CS (2021) Meridional Anisotropy of Foveal and Peripheral Resolution Acuity in Adults with Emmetropia, Myopia and Astigmatism. Investigative Ophthalmology and Visual Science, 62, e11',
 
