@@ -26,7 +26,7 @@ const Blog = () => {
     'Aliya DeJesus (NSU: Psychology, pre-Opt)',
     'Ashley Godwin (NSU, pre-Opt)',
 'Charlene Li (UF, Pre-Med)',
-'Edxael Rodriguez (NSUCO)',  
+'Edxael Velez Rodriguez (NSUCO)',  
 'Ledianys Nazala (NSU, Pre-PA, Independent Study: BIOL 4990)',    
 'Nimisha Kumar (NSU, pre-Med)',
 'Riya Vadalia (NSU, Pre-Med)',    
