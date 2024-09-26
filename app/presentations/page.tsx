@@ -4,7 +4,8 @@ import React, { useState, useEffect } from 'react';
 
 const  BlogDetailsPage = () => {
   const item2029=[
- 'Li BZ, Srujan M, Li CY, Emily M, Chat SW, NR Green, Levi DM, Li RW. (2024) Uncorrected refractive error alters the spatial frequency tuning of stereopsis - spherical blur versus astigmatic blur. ARVO, Seattle, Washington, USA',
+ 'Bleibel N., Li BZ, Luo Y, Do T., Lara C., Srujan M, Li CY, Chat SW, Levi DM, Li RW. (2024) Playing stereoscopic video games enhances the precision, but not the accuracy of depth perception. American Academy of Optometry, Indianapolis, Indiana, USA. [Talk]',
+    'Li BZ, Srujan M, Li CY, Emily M, Chat SW, NR Green, Levi DM, Li RW. (2024) Uncorrected refractive error alters the spatial frequency tuning of stereopsis - spherical blur versus astigmatic blur. ARVO, Seattle, Washington, USA',
 'Huang E, Leung TW, Kee CS, Chat SW, Li RW. (2023) Brief Adaptation to Astigmatic Blur Reduces Meridional Anisotropy in Contrast Sensitivity. American Academy of Optometry, New Orleans, LA, USA',
 'Cayemitte M, Li BZ, Li CY, Miryala S, Cereminati L, Rudy J, Chat SW, Levi DM, Li RW. (2023) Characterizing the effects of spherical and astigmatic defocus on the spatial frequency tuning of stereopsis. American Academy of Optometry, New Orleans, LA, USA', 
 'Leung TW, Li RW, Kee CS. (2023) Orientation Specificity of Contrast Sensitivity Adaptation to Astigmatic Blur: Transient Astigmatism Adaptation Reduces Meridional Anisotropy.  ARVO, New Orleans, LA, USA',
