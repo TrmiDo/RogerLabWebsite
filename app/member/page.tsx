@@ -24,6 +24,7 @@ const Blog = () => {
 
   const researchassit=[
     'Aliya DeJesus (NSU: Psychology, pre-Opt)',
+    'Ami Darji (NSU, pre-Opt)',    
     'Anagha Sudhir (NSU, pre-Opt)',
     'Andrea Hernandez (NSU, Pre-Med/Dent, Independent Study: BIOL 4990)',
     'Ashley Godwin (NSU, pre-Opt)',
