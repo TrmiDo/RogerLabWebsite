@@ -35,7 +35,7 @@ const Blog = () => {
 'Riya Vadalia (NSU, Pre-Med)',    
 'Triet Do (NSU: Computing)',
 'Valeria Raterman (NSU, pre-Opt)',   
-'Valeria Raterman (NSU, pre-Opt)',       
+'Wayne Jean-Bapiste (NSU, pre-Opt)',       
 'Yingzi Luo (NSU, Pre-Opt/Pre-Med, Independent Study: PSYC 4990)', 
 
     
