@@ -28,6 +28,7 @@ const BlogDetailsPage = () => {
 '17 Competitive Conference Travel Grants (AAOPT & ARVO; 2004-2022)'
   ]
   const itemstg =[
+    'Anamaria Rey (2025, NSU Biology Student Award)',
     'Betty Li (2022, AAO J&J Vision Student Travel Fellowship Grant)',
 'Betty Li (2022, UCB Graduate Assembly Professional Development / Graduate Student Parent Travel Award, US$300) ',
 'Michelle Antonucci (2019, AAO J & J Vision Student Travel Fellowship Grant)',
