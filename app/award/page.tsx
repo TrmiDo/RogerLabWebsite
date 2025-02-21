@@ -31,7 +31,7 @@ const BlogDetailsPage = () => {
   const itemstg =[
     'Anamaria Rey (2025, NSU Biology Student Award)',
     'Betty Li (2022, AAO J&J Vision Student Travel Fellowship Grant)',
-'Betty Li (2022, UCB Graduate Assembly Professional Development / Graduate Student Parent Travel Award, US$300) ',
+'Betty Li (2022, UCB Graduate Assembly Professional Development / Graduate Student Parent Travel Award) ',
 'Michelle Antonucci (2019, AAO J & J Vision Student Travel Fellowship Grant)',
 'Betty Li (2019, AAO N. Rex Ghormley Student Travel Fellowship Grant)',
 'John Bui (2019, ARVO National Eye Institute Travel Grant)',
