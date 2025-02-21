@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const BlogDetailsPage = () => {
   const itemaspecial=[
-    'Award Recipient. RPB Walt and Lilly Disney Award for Amblyopia Research (Research to Prevent Blindness, New York; 2022)',
+    'Award Recipient. RPB Walt and Lilly Disney Award for Amblyopia Research (Research to Prevent Blindness, USA; 2022)',
   ]
   const itema=[
     'External Referee for Faculty Promotion. School of Optometry, Hong Kong Polytechnic University, Hong Kong (2024)',
