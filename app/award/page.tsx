@@ -7,6 +7,7 @@ const BlogDetailsPage = () => {
     'Award Recipient. RPB Walt and Lilly Disney Award for Amblyopia Research (Research to Prevent Blindness, New York; 2022)',
   ]
   const itema=[
+    'External Referee for Faculty Promotion. School of Optometry, Hong Kong Polytechnic University, Hong Kong (2024)',
     'Award Recipient. RPB Walt and Lilly Disney Award for Amblyopia Research (Research to Prevent Blindness, New York; 2022)',
     'Grant Review Panel. Research Grants Council, Hong Kong (2016-)',
 'Grant Review Panel. Natural Sciences and Engineering Research Council of Canada, Canada (2014) ',
