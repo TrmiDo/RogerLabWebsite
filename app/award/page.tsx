@@ -29,6 +29,7 @@ const BlogDetailsPage = () => {
 '17 Competitive Conference Travel Grants (AAOPT & ARVO; 2004-2022)'
   ]
   const itemstg =[
+    'Charlene Li (2025, ARVO Alan Laties, MD Memorial Travel Grant)',
     'Anamaria Rey (2025, NSU Biology Student Award)',
     'Betty Li (2022, AAO J&J Vision Student Travel Fellowship Grant)',
 'Betty Li (2022, UCB Graduate Assembly Professional Development Travel Award) ',
