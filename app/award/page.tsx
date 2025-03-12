@@ -23,8 +23,8 @@ const BlogDetailsPage = () => {
 'Editor. World Journal of Ophthalmology (2011-2018)',
 'Exceptional Reviewer. Journal of Vision (2012-2013a, 2012-2013b)',
 'External Ph.D. examiner. University of New South Wales, School of Optometry and Vision Science, Australia (2011-2012)',
+'University Committee, Faculty Research Advisory Council, NSU (2022-)',   
 'Departmental Research Committee, NSUCO (2022-)',
-'University Committee, Faculty Research Advisory Council, NSU (2022-)',
 'Faculty Research Mentor, NSUCO (2023-)',
 '19 Competitive Conference Travel Grants (AAOPT & ARVO; 2004-2022)'
   ]
