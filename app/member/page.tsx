@@ -32,8 +32,7 @@ const Blog = () => {
 'Ledianys Nazala (NSU, Pre-PA, Independent Study: BIOL 4990)',    
 'Nimisha Kumar (NSU, pre-Med)',  
 'Triet Do (NSU: Computing)',
-'Valeria Raterman (NSU, pre-Opt)',   
-'Wayne Jean-Bapiste (NSU, pre-Opt)',       
+'Valeria Raterman (NSU, pre-Opt)',         
 'Yingzi Luo (NSU, Pre-Opt/Pre-Med, Independent Study: PSYC 4990)', 
 
     
