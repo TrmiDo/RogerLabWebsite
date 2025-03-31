@@ -49,7 +49,9 @@ const BlogDetailsPage = () => {
 'Karen Young (2005, ARVO Travel Grant)',
 'Karen Young (2004, ARVO Travel Grant)'
   ]
-  const itemsrf = ['Diana Chau. Theodore Cohn Memorial Scholarship (2017, UCBSO)',
+  const itemsrf = [
+    'Charlene Li. ViSUR Summer Research Scholarship (2025, UCBSO/CooperVision)',    
+    'Diana Chau. Theodore Cohn Memorial Scholarship (2017, UCBSO)',
   'Michelle Antonucci. SURF Rose Hills Fellowship (2015, UCBSO)',
   'Calvin Nguyen. Theodore Cohn Memorial Scholarship (2012, UCBSO)'
   ]
