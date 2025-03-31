@@ -32,7 +32,7 @@ const Blog = () => {
 'Ledianys Nazala (NSU, Pre-PA, Independent Study: BIOL 4990)',    
 'Triet Do (NSU: Computing)',
 'Valeria Raterman (NSU, pre-Opt)',         
-'Yingzi Luo (NSU, Pre-Opt/Pre-Med, Independent Study: PSYC 4990)', 
+'Yingzi Luo (NSU, Pre-Opt/Pre-Med, TA, Independent Study: PSYC 4990)', 
 
     
   ]
