@@ -26,7 +26,7 @@ const BlogDetailsPage = () => {
 'University Committee, Faculty Research Advisory Council, NSU (2022-)',   
 'Departmental Research Committee, NSUCO (2022-)',
 'Faculty Research Mentor, NSUCO (2023-)',
-'19 Competitive Conference Travel Grants (AAOPT & ARVO; 2004-2022)'
+'19 Competitive Conference Travel Grants (AAOPT & ARVO; 2004-2025)'
   ]
   const itemstg =[
     'Charlene Li (2025, ARVO Alan Laties, MD Memorial Travel Grant)',
