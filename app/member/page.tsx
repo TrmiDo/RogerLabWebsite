@@ -26,6 +26,7 @@ const Blog = () => {
     'Ami Darji (NSU, pre-Opt)',    
     'Andrea Hernandez (NSU, Pre-Med/Dent, Independent Study: BIOL 4990)',
     'Ashley Godwin (NSU, pre-Opt)',
+'Nimisha Kumar (NSU, pre-Med)',  
 'Charlene Li (UF, Pre-Med)',
 'Edxael Velez Rodriguez (NSUCO)',  
 'Ledianys Nazala (NSU, Pre-PA, Independent Study: BIOL 4990)',    
