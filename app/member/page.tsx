@@ -23,7 +23,9 @@ const Blog = () => {
   ]
 
   const researchassit=[
-    'Ami Darji (NSU, pre-Opt)',    
+      'Fiorella Maria Bayo (NSU, pre-med, Independent Study: BIOL 4990)',      
+      'Camila Nogueira Camejo (NSU, pre-med, Independent Study: BIOL 4990)',      
+  'Ami Darji (NSU, pre-Opt)',  
     'Andrea Hernandez (NSU, Pre-Med/Dent, Independent Study: BIOL 4990)',
     'Ashley Godwin (NSU, pre-Opt)',
 'Nimisha Kumar (NSU, pre-Med)',  
