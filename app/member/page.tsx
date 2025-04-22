@@ -10,31 +10,31 @@ const Blog = () => {
     'Sandy W. Chat OD, MPhil',
   ]
   const assitantlabmanager=[
-    'Anamaria Rey (NSU, Pre-Opt, Independent Study: BIOL 4990)',
-'Lara Cereminati (NSU, Pre-Opt, Independent Study: BIOL 4990)',
+    'Anamaria Rey (NSU, Pre-Opt, Independent Study: BIOL 4990, 2024F, 2025W, 2025F)',
+'Lara Cereminati (NSU, Pre-Opt, Independent Study: BIOL 4990, 2024F, 2025W)',
 
   ]
 
   const projectmanager=[
     'Jacob Ruby (NSU, Pre-Opt)',
-'Nada Bleibel (NSUCO, TA, Independent Study: BIOL 4950)',
+'Nada Bleibel (NSUCO, TA, Independent Study: BIOL 4950, 2023F)',
 
 
   ]
 
   const researchassit=[
       'Fiorella Maria Bayo (NSU, pre-med, Independent Study: BIOL 4990)',      
-      'Camila Nogueira Camejo (NSU, pre-med, Independent Study: BIOL 4990)',      
+      'Camila Nogueira Camejo (NSU, pre-med, Independent Study: BIOL 4990, 2025F)',      
   'Ami Darji (NSU, pre-Opt)',  
-    'Andrea Hernandez (NSU, Pre-Med/Dent, Independent Study: BIOL 4990)',
+    'Andrea Hernandez (NSU, Pre-Med/Dent, Independent Study: BIOL 4990, 2025W, 2025F)',
     'Ashley Godwin (NSU, pre-Opt)',
 'Nimisha Kumar (NSU, pre-Med)',  
 'Charlene Li (UF, Pre-Med)',
 'Edxael Velez Rodriguez (NSUCO)',  
-'Ledianys Nazala (NSU, Pre-PA, Independent Study: BIOL 4990)',    
+'Ledianys Nazala (NSU, Pre-PA, Independent Study: BIOL 4990, 2024F, 2025W)',    
 'Triet Do (NSU: Computing)',
 'Valeria Raterman (NSU, pre-Opt)',         
-'Yingzi Luo (NSU, Pre-Opt/Pre-Med, TA, Independent Study: PSYC 4990)', 
+'Yingzi Luo (NSU, Pre-Opt/Pre-Med, TA, Independent Study: PSYC 4990, 2025W)', 
 
     
   ]
