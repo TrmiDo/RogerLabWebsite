@@ -10,13 +10,13 @@ const Blog = () => {
     'Sandy W. Chat OD, MPhil',
   ]
   const assitantlabmanager=[
-    'Anamaria Rey (Pre-Opt; Independent Study: BIOL 4990, 2024F, 2025W, 2025F)',
-'Lara Cereminati (Pre-Opt; Independent Study: BIOL 4990, 2024F, 2025W)',
+    'Anamaria Rey (pre-Opt; Independent Study: BIOL 4990, 2024F, 2025W, 2025F)',
+'Lara Cereminati (pre-Opt; Independent Study: BIOL 4990, 2024F, 2025W)',
 
   ]
 
   const projectmanager=[
-    'Jacob Ruby (Pre-Opt)',
+    'Jacob Ruby (pre-Opt)',
 'Nada Bleibel (NSUCO; TA; Independent Study: BIOL 4950, 2023F)',
 
 
