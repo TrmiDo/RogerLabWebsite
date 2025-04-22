@@ -23,7 +23,7 @@ const Blog = () => {
   ]
 
   const researchassit=[
-      'Fiorella Maria Bayo (pre-med; Independent Study: BIOL 4990)',      
+      'Fiorella Maria Bayo (pre-med; Independent Study: BIOL 4990, 2025F)',      
       'Camila Nogueira Camejo (pre-med; Independent Study: BIOL 4990, 2025F)',      
   'Ami Darji (pre-Opt)',  
     'Andrea Hernandez (Pre-Med/Den; Independent Study: BIOL 4990, 2025W, 2025F)',
