@@ -33,7 +33,7 @@ const Blog = () => {
 'Edxael Velez Rodriguez (NSUCO)',  
 'Hrishi Paliath-Pathiyal (Pre-Med)',      
 'Valeria Raterman (pre-Opt)',         
-'Yingzi Luo (Pre-Opt/Pre-Med; TA; Independent Study: PSYC 4990, 2025W)', 
+'Yingzi Luo (Pre-Opt/Pre-Med; TA; Independent Study: PSYC 4990, 2025W, 2025F)', 
 
     
   ]
