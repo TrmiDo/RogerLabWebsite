@@ -35,9 +35,6 @@ const Blog = () => {
 'Hrishi Paliath-Pathiyal (Pre-Med)', 
 'Valeria Raterman (pre-Opt)',     
 'Edxael Velez Rodriguez (NSUCO)',  
-        
-
-
     
   ]
 
