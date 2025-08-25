@@ -33,7 +33,8 @@ const Blog = () => {
 'Charlene Li (UF, Pre-Med)',
 'Yingzi Luo (Pre-Opt/Pre-Med; TA; Independent Study: PSYC 4990, 2025W, 2025F)', 
 'Hrishi Paliath-Pathiyal (Pre-Med)', 
-'Valeria Raterman (pre-Opt)',     
+'Valeria Raterman (pre-Opt)', 
+'Aashi Shah (pre-Opt)',    
 'Edxael Velez Rodriguez (NSUCO)',  
     
   ]
