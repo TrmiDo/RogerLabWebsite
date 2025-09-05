@@ -34,8 +34,7 @@ const Blog = () => {
 'Carlos Magana (NSUCO)',    
 'Hrishi Paliath-Pathiyal (Pre-Med)', 
 'Valeria Raterman (pre-Opt)', 
-'Aashi Shah (pre-Opt)',   
-'Ronnie Su (pre-Opt/Pre-PA)',  
+'Aashi Shah (pre-Opt)',    
 'Edxael Velez Rodriguez (NSUCO)',  
     
   ]
