@@ -22,21 +22,6 @@ const Blog = () => {
   ]
 
   const researchassit=[
-      'Fiorella Maria Bayo (pre-med; Independent Study: BIOL 4990, 2025F)', 
-'Kareem Blebel (pre-med; Independent Study: BIOL 4990, 2025F)',
-'Camila Nogueira Camejo (pre-med; Independent Study: BIOL 4990, 2025F)',        
-'Lara Cereminati (pre-Opt; Independent Study: BIOL 4990, 2024F, 2025W)',    
-'Ami Darji (pre-Opt)',  
-'Ashley Godwin (pre-Opt)',
-'Andrea Hernandez (Pre-Med/Den; Independent Study: BIOL 4990, 2025W, 2025F)',
-'Nimisha Kumar (pre-Med)',  
-'Charlene Li (UF, Pre-Med)',
-'Yingzi Luo (Pre-Opt/Pre-Med; TA; Independent Study: PSYC 4990, 2025W, 2025F)', 
-'Carlos Magana (NSUCO)',    
-'Hrishi Paliath-Pathiyal (Pre-Med)', 
-'Valeria Raterman (pre-Opt)', 
-'Aashi Shah (pre-Opt)',    
-'Edxael Velez Rodriguez (NSUCO)',  
     
   ]
 
