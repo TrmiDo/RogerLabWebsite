@@ -22,7 +22,7 @@ const Blog = () => {
   ]
 
   const researchassit=[
-    
+     'Jacob Ruby (pre-Opt)',   
   ]
 
   const collaborator=[
