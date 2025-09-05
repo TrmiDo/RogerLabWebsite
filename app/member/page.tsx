@@ -21,7 +21,9 @@ const Blog = () => {
 
   ]
 
-  const researchassit=['Fiorella Maria Bayo (pre-med; Independent Study: BIOL 4990, 2025F)', 
+  const researchassit=[
+      'Fiorella Maria Bayo (pre-med; Independent Study: BIOL 4990, 2025F)', 
+'Kareem Blebel (pre-med; Independent Study: BIOL 4990, 2025F)',
 'Camila Nogueira Camejo (pre-med; Independent Study: BIOL 4990, 2025F)',        
 'Lara Cereminati (pre-Opt; Independent Study: BIOL 4990, 2024F, 2025W)',    
 'Ami Darji (pre-Opt)',  
@@ -34,7 +36,8 @@ const Blog = () => {
 'Hrishi Paliath-Pathiyal (Pre-Med)', 
 'Valeria Raterman (pre-Opt)', 
 'Aashi Shah (pre-Opt)',    
-'Edxael Velez Rodriguez (NSUCO)', 
+'Edxael Velez Rodriguez (NSUCO)',  
+    
   ]
 
   const collaborator=[
