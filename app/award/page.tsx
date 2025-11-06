@@ -16,6 +16,7 @@ const BlogDetailsPage = () => {
 'Editor. Scientific Reports (2013-)',
 'Associate Editor. Frontiers in Neuroscience (2022-)',
 'Associate Editor. Frontiers in Psychology (2022-)',
+'Editor. urnal of Clinical & Translational Ophthalmology (2025-)',
 'Review Editor. Frontiers in Neuroscience (2016-2022)',
 'Review Editor. Frontiers in Psychology (2010-2022)',
 'Editor. Annals of Eye Science (2020-2022)',
